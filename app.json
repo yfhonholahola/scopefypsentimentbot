@@ -1,0 +1,17 @@
+{
+  "name": "scopefypsentimentbot",
+  "displayName": "scopefypsentimentbot",
+  "expo": {
+    "name": "scopefypsentimentbot",
+    "slug": "scopefypsentimentbot",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
