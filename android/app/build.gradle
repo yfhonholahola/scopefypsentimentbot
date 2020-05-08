@@ -182,8 +182,13 @@ android {
 }
 
 dependencies {
+    implementation project(':react-native-safe-area-context')
+    implementation project(':@react-native-community_masked-view')
+    implementation project(':react-native-voice')
+    implementation project(':react-native-dialogflow')
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation "com.facebook.react:react-native:+"  // From node_modules
+    implementation(project(":react-native-google-signin"))
     addUnimodulesDependencies()
 
     if (enableHermes) {
@@ -203,3 +208,4 @@ task copyDownloadableDepsToLibs(type: Copy) {
 }
 
 apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)
+apply plugin: 'com.google.gms.google-services'

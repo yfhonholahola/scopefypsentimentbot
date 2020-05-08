@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "984017954642",
+    "firebase_url": "https://scope-fyp-sentiment-bot-kwrxmo.firebaseio.com",
+    "project_id": "scope-fyp-sentiment-bot-kwrxmo",
+    "storage_bucket": "scope-fyp-sentiment-bot-kwrxmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984017954642:android:4c4dd8daf1f614579abc8b",
+        "android_client_info": {
+          "package_name": "com.scopefypsentimentbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984017954642-nd6gitdqnfmlpnqe3ankhjap2bq1r9pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASh30YSW9s9PoIIm8yFUYkAb1BR74PWjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984017954642-nd6gitdqnfmlpnqe3ankhjap2bq1r9pv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984017954642-3vbn151a2h1orngjhkrto0udi6a1hk8c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.scopefypsentimentbot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

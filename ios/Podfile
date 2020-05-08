@@ -37,10 +37,16 @@ target 'scopefypsentimentbot' do
   pod 'Folly', :podspec => "#{rnPrefix}/third-party-podspecs/Folly.podspec"
 
   # Other native modules
+  pod 'GoogleSignIn', '~> 5.0.2'
+  pod 'Firebase/Analytics'
 
   # Automatically detect installed unimodules
   use_unimodules!
 
   # react-native-cli autolinking
   use_native_modules!
+  pod 'react-native-dialogflow', :path => '../node_modules/react-native-dialogflow'
+
+  pod 'react-native-voice', :path => '../node_modules/react-native-voice'
+
 end
