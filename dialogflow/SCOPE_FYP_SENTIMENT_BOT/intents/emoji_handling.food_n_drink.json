@@ -1,0 +1,48 @@
+{
+  "id": "ab67a97d-8b99-4275-b2dc-4a797b27a3f3",
+  "name": "emoji_handling.food_n_drink",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4c1b6aa4-038d-45b2-b42e-16aa43cd6dcb",
+          "required": false,
+          "dataType": "@Food_Drink_Emoji_Entity",
+          "name": "Food_Drink_Emoji_Entity",
+          "value": "$Food_Drink_Emoji_Entity",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "$Food_Drink_Emoji_Entity~Cool~",
+            "I am still learning this emoji $Food_Drink_Emoji_Entity.",
+            "Sorry, I don\u0027t understand this emoji $Food_Drink_Emoji_Entity yet! 😃🙏🏻"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

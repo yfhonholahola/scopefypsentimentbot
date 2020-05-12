@@ -1,0 +1,50 @@
+[
+  {
+    "id": "65ddc542-390c-421e-9dc3-643c3ef8d652",
+    "data": [
+      {
+        "text": "你識做咩",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afc2fc3a-7eb8-4f6c-bc12-2de89f8ec31f",
+    "data": [
+      {
+        "text": "你識做d 乜",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "800056e9-95dc-4ad8-bf66-17a3d7ac9e30",
+    "data": [
+      {
+        "text": "/help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f118512-aba0-422e-a3d3-d9b0cc6c9b4b",
+    "data": [
+      {
+        "text": "你識做乜",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

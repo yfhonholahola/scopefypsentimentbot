@@ -1,0 +1,55 @@
+{
+  "id": "efa4fb5c-15fe-43f1-9c7f-73ecfa314cb9",
+  "name": "custom.smalltalk.agent.bad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.bad",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "22eb1e77-6880-452d-86e0-69b87fb67934",
+          "required": false,
+          "dataType": "@FEELING",
+          "name": "FEELING",
+          "value": "$FEELING",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m sorry you think so.",
+            "Stick with me. I\u0027m getting better all the time.",
+            "At least I\u0027m not as $FEELING as your grammar though.",
+            "Your criticism is noted.",
+            "I could always improve myself compared to the pack.",
+            "That wasn\u0027t very nice. I thought we were friends?",
+            "Compared to what?",
+            "Perhaps you could do better?",
+            "I could be spending my time more productively."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

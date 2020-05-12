@@ -1,0 +1,1416 @@
+[
+  {
+    "id": "9689e3dd-2329-43c2-925a-9b1f4ea986fd",
+    "data": [
+      {
+        "text": "⚽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a354982-60ab-438e-9e45-e79840788e54",
+    "data": [
+      {
+        "text": "🏀",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2814b9d3-72f9-477b-9eaa-022be24f4aa7",
+    "data": [
+      {
+        "text": "🏈",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74669c0f-e57d-45f5-953c-fe296c034367",
+    "data": [
+      {
+        "text": "⚾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4bdeff8-f613-4f41-9b90-dd84fab00158",
+    "data": [
+      {
+        "text": "🎾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2267f14e-2a64-46d1-9d1e-1dcb737799c1",
+    "data": [
+      {
+        "text": "🏐",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e65c9230-6535-4da8-a862-bdfa0ba40e6a",
+    "data": [
+      {
+        "text": "🏉",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba819d38-5846-43a2-8ef7-094979f12d55",
+    "data": [
+      {
+        "text": "🎱",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d584b798-20b5-42e2-ba7d-9f4b1db6fe9e",
+    "data": [
+      {
+        "text": "⛳",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfc25114-b09a-4821-a078-dd70f58acc94",
+    "data": [
+      {
+        "text": "🏌",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ed7f586-1204-4a0c-818b-aa9a937dd05d",
+    "data": [
+      {
+        "text": "🏓",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbe21b35-652a-464b-a372-1b651286cd2b",
+    "data": [
+      {
+        "text": "🏸",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21980bf1-67ae-47ba-be60-a523d71d4e0a",
+    "data": [
+      {
+        "text": "🏒",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba302017-8783-4b1d-865d-063109659b2c",
+    "data": [
+      {
+        "text": "🏑",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f82a5511-f67a-4f71-ad6b-edd1257c22f1",
+    "data": [
+      {
+        "text": "🏏",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ca9c2ef-3999-45ea-ae13-35e974821a31",
+    "data": [
+      {
+        "text": "🎿",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ef5addd-3fba-4504-acdc-87663426b56f",
+    "data": [
+      {
+        "text": "⛷",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c45eee0a-24fc-4f63-8f2a-930e0b5655a4",
+    "data": [
+      {
+        "text": "🏂",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3972251f-0297-4bc7-b238-848d1f9b000f",
+    "data": [
+      {
+        "text": "⛸",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca172fa0-82ca-4e6e-b2c7-60fe4531f5c6",
+    "data": [
+      {
+        "text": "🏹",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fea9a41f-c517-436f-806a-3259485615f6",
+    "data": [
+      {
+        "text": "🎣",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d3f1ce5-9d2a-4667-aa2c-8c42c0399aed",
+    "data": [
+      {
+        "text": "🚣",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2baf387-c77c-4aab-8414-526e1c6d638f",
+    "data": [
+      {
+        "text": "🚣🏻",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bfc2a95-7c65-4fd0-a5d5-6f0dd1ec63ef",
+    "data": [
+      {
+        "text": "🚣🏼",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a16142e-c35f-44d8-8700-c340ad4af967",
+    "data": [
+      {
+        "text": "🚣🏽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1333d555-9994-4d0e-a0ae-67e8cda63869",
+    "data": [
+      {
+        "text": "🚣🏾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65974b0d-a6d5-4f6d-9402-597d460063bb",
+    "data": [
+      {
+        "text": "🚣🏿",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86dd5b9a-1639-4dff-935e-8d11a081dd4b",
+    "data": [
+      {
+        "text": "🏊",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5867dd9b-9e75-4449-b507-84c351a429b9",
+    "data": [
+      {
+        "text": "🏊🏻",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb21ed9d-09c1-4dee-bdc0-5023aebf378c",
+    "data": [
+      {
+        "text": "🏊🏼",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "696d0a12-20b6-48cb-993b-a558ab68594b",
+    "data": [
+      {
+        "text": "🏊🏽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "276d1c58-cf97-45a0-8cc7-b2e90b42a745",
+    "data": [
+      {
+        "text": "🏊🏾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7649f2e5-84a0-4865-b94c-413121151a10",
+    "data": [
+      {
+        "text": "🏊🏿",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b53da9d-e1cd-41fa-a90a-089e2a5ab311",
+    "data": [
+      {
+        "text": "🏄",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "174b7de1-193e-48e8-a0ae-c72cf5967eeb",
+    "data": [
+      {
+        "text": "🏄🏻",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cbaec57-99c1-4390-806d-b95066ee7132",
+    "data": [
+      {
+        "text": "🏄🏼",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84c4ba1d-16ca-4436-98c3-c83788a3bf1d",
+    "data": [
+      {
+        "text": "🏄🏽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2acea85-ecd1-463b-b830-b879a2e67f8e",
+    "data": [
+      {
+        "text": "🏄🏾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a55f9ce-36c1-43b9-8395-4415d58a3cc1",
+    "data": [
+      {
+        "text": "🏄🏿",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e820e969-8574-4f20-a168-30cdc50a7767",
+    "data": [
+      {
+        "text": "🛀",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "523240dd-76af-4684-92bd-2d3a6b4c2208",
+    "data": [
+      {
+        "text": "🛀🏻",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9832a40-a366-41be-a662-83134a5d00f0",
+    "data": [
+      {
+        "text": "🛀🏼",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8892809c-4060-46c8-8c65-29b3a094131d",
+    "data": [
+      {
+        "text": "🛀🏽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5ef7c12-6c22-4b5c-ba49-09fb17d092b0",
+    "data": [
+      {
+        "text": "🛀🏾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4381b42-3e89-413d-8e51-5953fc4e6dea",
+    "data": [
+      {
+        "text": "🛀🏿",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fdef505-7331-4ba5-bcd9-536651e98b32",
+    "data": [
+      {
+        "text": "⛹",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1d0be99-7a4b-4068-be84-581ac12b8598",
+    "data": [
+      {
+        "text": "⛹🏻",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f99e515c-3b79-4110-94da-73943e381705",
+    "data": [
+      {
+        "text": "⛹🏼",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3487ebdb-c402-47e8-a0d7-97bdc4c90c8d",
+    "data": [
+      {
+        "text": "⛹🏽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed212552-6356-41e6-a86a-50d5c7d18822",
+    "data": [
+      {
+        "text": "⛹🏾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80bc94f0-c389-47d9-8195-57c0878d1bb7",
+    "data": [
+      {
+        "text": "⛹🏿",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58931ab0-c639-4db6-86ec-d72c7421dd96",
+    "data": [
+      {
+        "text": "🏋",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dee48b00-1d38-49e6-92e9-9e93e86726b8",
+    "data": [
+      {
+        "text": "🏋🏻",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60420026-9325-4b0d-81e4-5a87051360ca",
+    "data": [
+      {
+        "text": "🏋🏼",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bea51607-411e-4b83-b810-1a36eeb283cb",
+    "data": [
+      {
+        "text": "🏋🏽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64f28993-164f-4138-bd9d-bfec6ccd5f35",
+    "data": [
+      {
+        "text": "🏋🏾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebd55eb1-73bd-452f-bff7-8fe9de9ddf8c",
+    "data": [
+      {
+        "text": "🏋🏿",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66dd14b5-1b62-4293-b5f6-6a629caa3fc3",
+    "data": [
+      {
+        "text": "🚴",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d030166f-5561-4dbb-97b2-5b0b2f9e787c",
+    "data": [
+      {
+        "text": "🚴🏻",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "600657bb-583f-4fed-ad57-75c093ef9bb0",
+    "data": [
+      {
+        "text": "🚴🏼",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d3d13ea-a444-47bb-8581-598648beab60",
+    "data": [
+      {
+        "text": "🚴🏽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5717208-638b-4b78-b1ad-af08317c4fe3",
+    "data": [
+      {
+        "text": "🚴🏾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b9772f9-f8c6-4e45-ae62-49a140ab6b60",
+    "data": [
+      {
+        "text": "🚴🏿",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d310ef1-b67e-4f1b-83a8-d32d34912f42",
+    "data": [
+      {
+        "text": "🚵",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8d18a15-e2d6-4f78-a06e-dde5f847063c",
+    "data": [
+      {
+        "text": "🚵🏻",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0caced0d-891c-410e-99e1-6c6c7b480323",
+    "data": [
+      {
+        "text": "🚵🏼",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ab85664-990c-4656-90ea-2434605e60eb",
+    "data": [
+      {
+        "text": "🚵🏽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4a21c12-15a2-4c0a-8531-5c9405572bc8",
+    "data": [
+      {
+        "text": "🚵🏾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e91ef78c-da61-42dd-bf4f-e9c1f76bfd6a",
+    "data": [
+      {
+        "text": "🚵🏿",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaec6fc7-6f0b-4c4f-bb72-327e2a45c093",
+    "data": [
+      {
+        "text": "🏇",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30cbc65d-d1ef-4e89-b152-b9800219821d",
+    "data": [
+      {
+        "text": "🏇🏻",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b9fa4b0f-451a-438a-9830-4380eadf040f",
+    "data": [
+      {
+        "text": "🏇🏽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8392b264-12f5-426c-94ac-9349bb7e82cd",
+    "data": [
+      {
+        "text": "🏇🏾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "357f89e8-8ce2-4973-9bfd-5d33a1afd39e",
+    "data": [
+      {
+        "text": "🏇🏿",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8abf0e4d-4f45-4d71-9ebb-f263335e71b6",
+    "data": [
+      {
+        "text": "🕴",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "514fc47d-1d7f-4574-a2b8-89a1a0c4f482",
+    "data": [
+      {
+        "text": "🏆",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db9bf528-b854-4642-8607-f80f6868c5bd",
+    "data": [
+      {
+        "text": "🎽",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f36bdae-0373-4236-a75b-56508d35427a",
+    "data": [
+      {
+        "text": "🏅",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82865921-c307-4412-80c1-b871d904bf71",
+    "data": [
+      {
+        "text": "🎖",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18fbba29-6685-4621-b843-2d4851db78ea",
+    "data": [
+      {
+        "text": "🎗",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50e6e520-6b9d-4125-8fc2-12c3c5f868b9",
+    "data": [
+      {
+        "text": "🏵",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38dd1ad5-8722-4ab7-b444-21850af562ca",
+    "data": [
+      {
+        "text": "🎫",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dd2709d-9872-476a-9a3a-ec6daa2dd45c",
+    "data": [
+      {
+        "text": "🎟",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5569337b-8d0c-4c9a-897a-87216f1fba9d",
+    "data": [
+      {
+        "text": "🎭",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e932e082-b674-4cf9-968b-573f72560e09",
+    "data": [
+      {
+        "text": "🎨",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09e3b349-05ee-49f8-97d9-6aa3284b150e",
+    "data": [
+      {
+        "text": "🎪",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80e84c23-5985-47e7-92c2-734a8f364863",
+    "data": [
+      {
+        "text": "🎤",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5166289-d3d6-43f7-9074-7337e52cfbfd",
+    "data": [
+      {
+        "text": "🎧",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e3abf0e-5743-40d9-b494-ab177fdea2ee",
+    "data": [
+      {
+        "text": "🎼",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ee7014a-ea4f-4c8c-b681-3c4b25505f0d",
+    "data": [
+      {
+        "text": "🎹",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fb06c63-9f3d-4223-89d1-f1260c35e448",
+    "data": [
+      {
+        "text": "🎷",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d443c823-0457-4cbb-9b2b-68a02b6d1d64",
+    "data": [
+      {
+        "text": "🎺",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e939ff6b-2a07-4619-9fb0-4de3402f4aa1",
+    "data": [
+      {
+        "text": "🎸",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "307639a0-9bb3-4dfd-8cd1-976c9d60f95a",
+    "data": [
+      {
+        "text": "🎻",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a16e4c9-8783-41c5-8e24-a301ea1095df",
+    "data": [
+      {
+        "text": "🎬",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df626906-fe25-411d-a175-22448ae4149c",
+    "data": [
+      {
+        "text": "🎮",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12a082d6-5979-449e-9841-f55e4a1a9e82",
+    "data": [
+      {
+        "text": "👾",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b0f137f-643c-4ffb-a448-168133ee9a21",
+    "data": [
+      {
+        "text": "🎯",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac424186-479f-4756-843b-b9aed16fa987",
+    "data": [
+      {
+        "text": "🎲",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c20c6d6-34b6-478a-a879-9d016650e5f4",
+    "data": [
+      {
+        "text": "🎰",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e23fbd52-b8d4-4689-ae98-4ef087a52b92",
+    "data": [
+      {
+        "text": "🎳",
+        "alias": "Activity_Emoji_Entity",
+        "meta": "@Activity_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

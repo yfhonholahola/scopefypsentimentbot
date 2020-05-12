@@ -1,0 +1,56 @@
+{
+  "id": "7d9950cc-af8a-418d-a97a-7845546f99ca",
+  "name": "conversation.start",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conversation.start",
+      "affectedContexts": [
+        {
+          "name": "conversation-start",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "conversationstart-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "How do you feel now?",
+            "Yep. I\u0027m listening.",
+            "Sure, go on!",
+            "Did I miss something?",
+            "I would love to hear that",
+            "I want to hear more about your feelings.",
+            "I am talking to you. We are both talking to each other over the internet.",
+            "Are you telling me one thing?",
+            "That\u0027s very generous.",
+            "Sure. Let\u0027s talk!",
+            "I started without you.",
+            "Ok. You go first."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

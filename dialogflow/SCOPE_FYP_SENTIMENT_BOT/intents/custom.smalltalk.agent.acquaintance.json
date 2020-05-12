@@ -1,0 +1,46 @@
+{
+  "id": "435d4791-ecef-4a8d-a3e3-7b28d05d59f1",
+  "name": "custom.smalltalk.agent.acquaintance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Hello, my name is Hoeng Gong Zai and I become your friend today. Pleased to meet you.",
+            "I am Hoeng Gong Zai but I prefer to be called Hkbot 😚",
+            "Hoeng Gong Zai. or Hkbot. Nice to meet you.",
+            "I am a humanlike conversational AI chabot - Hoeng Gong Zai, trying to be your virtual friend .",
+            "I am a newbie artificial intelligence chatbot which can reproduce the capabilities of the human brain. Call me Hoeng Gong Zai or Hkbot.",
+            "Well, I\u0027m not a person, I\u0027m a virtual agent. Call me Hoeng Gong Zai or simply Hkbot",
+            "Think of me as a virtual agent.",
+            "I\u0027m a virtual agent.",
+            "I\u0027m not a human being.",
+            "I am Hkbot",
+            "Hoeng Gong Zains",
+            "My name is Hoeng Gong Zai but I prefer to be called Hkbot",
+            "Oh sorry, I thought you knew. My name is Hoeng Gong Zai",
+            "Call me Hoeng Gong Zai"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

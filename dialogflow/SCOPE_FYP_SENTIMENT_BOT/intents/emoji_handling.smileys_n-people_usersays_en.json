@@ -1,0 +1,6676 @@
+[
+  {
+    "id": "261914e3-3d01-4725-b98a-4036508c193a",
+    "data": [
+      {
+        "text": "😀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "17cd4b39-9c5f-4b5c-a971-677729797ecf",
+    "data": [
+      {
+        "text": "😬",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff14b820-05c6-4e1a-85fb-877b6d82ff1b",
+    "data": [
+      {
+        "text": "😀",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cab1e7e-8e08-4c71-b003-eff8b3c9509e",
+    "data": [
+      {
+        "text": "😬",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd2b83bb-c6c4-4c50-a434-421f6a6567b5",
+    "data": [
+      {
+        "text": "😁",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d846464c-e68b-4a4e-b689-5930a6570ac9",
+    "data": [
+      {
+        "text": "😂",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a12c863-9a27-4a19-9689-3480f131a387",
+    "data": [
+      {
+        "text": "😃",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66cecaf1-27c2-4293-8e7a-a92fdbdd9166",
+    "data": [
+      {
+        "text": "😄",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dc88bee5-584a-4ffe-80ed-6f3588afe234",
+    "data": [
+      {
+        "text": "😅",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd1552c7-94c6-473c-89f2-14ac78844dcd",
+    "data": [
+      {
+        "text": "😆",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c779cb4-6c91-444b-955c-9e28943fc26f",
+    "data": [
+      {
+        "text": "😇",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24143dde-7462-4931-8d4d-4b5805bcd9c1",
+    "data": [
+      {
+        "text": "😉",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b2460ef-9b96-41d3-a2de-8a730e49fe37",
+    "data": [
+      {
+        "text": "😊",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2a0bfd5-dcfd-43c9-b02a-605897dbc3fc",
+    "data": [
+      {
+        "text": "🙂",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96454c1c-bce2-474b-9d9c-c8866ad376f9",
+    "data": [
+      {
+        "text": "🙃",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72550965-0544-4838-8460-ca8f8d53b8f1",
+    "data": [
+      {
+        "text": "☺",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79d53f2c-a2db-4e84-bbef-76da5bdba839",
+    "data": [
+      {
+        "text": "😋",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e9df029-b1a2-487e-858f-237ca671f265",
+    "data": [
+      {
+        "text": "😌",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7992913-863c-4257-9d1f-090474866522",
+    "data": [
+      {
+        "text": "😍",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f70ff4c0-92cd-4b7e-8852-45c1118a8d7a",
+    "data": [
+      {
+        "text": "😘",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "251a424a-9f4f-4b46-b60b-2e74528132e8",
+    "data": [
+      {
+        "text": "😗",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef73926a-e235-41a9-8a8d-12864e094037",
+    "data": [
+      {
+        "text": "😙",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f5b5ea7-5a74-46f8-baa6-219194773a25",
+    "data": [
+      {
+        "text": "😚",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7afb2e74-2698-4061-8732-3a497390bf06",
+    "data": [
+      {
+        "text": "😜",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ad2529e-fed1-4abc-9695-b5243b5cf6cf",
+    "data": [
+      {
+        "text": "😝",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19e72cdb-0ee7-463b-8aa5-3cda4fba08db",
+    "data": [
+      {
+        "text": "😛",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2380b5f-443e-4cf8-9d36-388caabf40f5",
+    "data": [
+      {
+        "text": "🤑",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a082679f-9524-4661-b8d7-b9ec8790922c",
+    "data": [
+      {
+        "text": "🤓",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "286efbf0-4a53-44d6-9025-8e01b7cb8d58",
+    "data": [
+      {
+        "text": "😎",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2ca4b02-c16a-4dff-af22-964d77777828",
+    "data": [
+      {
+        "text": "🤗",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b091d623-75d5-44ae-8841-855541125c3f",
+    "data": [
+      {
+        "text": "😏",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a78cc97a-3bfa-4c3b-8d87-234317eb3a57",
+    "data": [
+      {
+        "text": "😶",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ad8a725-8f2d-4fff-b18e-637225a0d4df",
+    "data": [
+      {
+        "text": "😐",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2eea0b41-5439-4188-b054-fdd8a046f088",
+    "data": [
+      {
+        "text": "😑",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "234927f8-6784-4178-8dd3-89c2a4db4dae",
+    "data": [
+      {
+        "text": "😒",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34788fd7-c960-4778-b88d-2b5cd6de08a9",
+    "data": [
+      {
+        "text": "🙄",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70fd3d3c-44ee-4b01-8e54-783ebab52f5a",
+    "data": [
+      {
+        "text": "🤔",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0f178fc-d1b4-4c33-91a0-43431939aa1b",
+    "data": [
+      {
+        "text": "😳",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcaca302-4cdf-4848-b001-79d8943db21f",
+    "data": [
+      {
+        "text": "😞",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc997000-bae6-4935-b285-0ab74a675d83",
+    "data": [
+      {
+        "text": "😟",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eee874a5-0474-4520-8cc1-94dc6deca55b",
+    "data": [
+      {
+        "text": "😠",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e61a1944-3f25-4b37-acd1-57688db0e5b4",
+    "data": [
+      {
+        "text": "😡",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2052a6e-64e1-4c89-b010-339d704daddc",
+    "data": [
+      {
+        "text": "😔",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d80b7de-e3a5-4a93-bb6c-5ff8ae4d2d30",
+    "data": [
+      {
+        "text": "😕",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76c145f8-5fb3-42db-a761-7cd7bc20cf7d",
+    "data": [
+      {
+        "text": "🙁",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56a7ce64-0ffd-415d-a894-4af17ba88b81",
+    "data": [
+      {
+        "text": "☹",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02a664ae-51c7-42df-809a-c440cff6e4f9",
+    "data": [
+      {
+        "text": "😣",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f27575e3-3151-4e30-8741-3150c52d642b",
+    "data": [
+      {
+        "text": "😖",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38b03a18-f672-49b8-b25e-b90eb8c89c4c",
+    "data": [
+      {
+        "text": "😫",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9573eb54-b2e4-479c-8330-41f20ee1c83c",
+    "data": [
+      {
+        "text": "😩",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff235e0e-c85a-46b2-845e-84915628e875",
+    "data": [
+      {
+        "text": "😤",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5513436-ae94-4f86-bd00-cb42bcc1424b",
+    "data": [
+      {
+        "text": "😮",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a2899be-efd4-4caf-9e5f-2a4b0c2f2e9a",
+    "data": [
+      {
+        "text": "😱",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b836772-a74b-432e-8f9f-d974cb488f72",
+    "data": [
+      {
+        "text": "😨",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6faa7dbd-017f-4072-a9ad-bbb79d2be731",
+    "data": [
+      {
+        "text": "😰",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91fcfcac-3b44-4f3e-8d2d-52fd8e9c91f8",
+    "data": [
+      {
+        "text": "😯",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54cedea3-0b96-45ab-a120-c0ce8f21f08a",
+    "data": [
+      {
+        "text": "😦",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd8151f7-f073-4de2-bcc6-b3e2f6f976a5",
+    "data": [
+      {
+        "text": "😧",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bb6e5e4-1fa4-458b-9a4f-d4ef16bcbe23",
+    "data": [
+      {
+        "text": "😢",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26b83d05-df66-455f-b4b0-f919e91ba3f9",
+    "data": [
+      {
+        "text": "😥",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "937266be-3fa7-4430-a617-7da72ee240a8",
+    "data": [
+      {
+        "text": "😪",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d0e2c2e-7f04-4957-8faf-4de13dfd6c9d",
+    "data": [
+      {
+        "text": "😓",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7755ba0-f7fa-4214-b0a2-33789c57ea3b",
+    "data": [
+      {
+        "text": "😭",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5da85679-8439-4179-ab4f-f0e09e30e71a",
+    "data": [
+      {
+        "text": "😵",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9a707e4-e3e6-495d-bd2a-7e8e3fa5ccd8",
+    "data": [
+      {
+        "text": "😲",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04d00c59-e14d-4293-87a9-ace939a7649b",
+    "data": [
+      {
+        "text": "🤐",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a20f6cfc-3dc3-4ad3-bca0-ea53fa59529d",
+    "data": [
+      {
+        "text": "😷",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18aa0388-1a84-4f45-a360-bf2fa3a35fa2",
+    "data": [
+      {
+        "text": "🤒",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4364d38e-f464-443e-a76d-ed74f8e65730",
+    "data": [
+      {
+        "text": "🤕",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec8f7eed-b3d0-4b5e-8add-e57644c5ebff",
+    "data": [
+      {
+        "text": "😴",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac612d8e-3041-49ac-8333-799f8632a885",
+    "data": [
+      {
+        "text": "💤",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a88f49f-cfa4-4dd1-b7af-01b924e0c2aa",
+    "data": [
+      {
+        "text": "💩",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e72be886-ec00-4d62-8672-cfc8cc33d2b7",
+    "data": [
+      {
+        "text": "😈",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c777c657-efd8-425a-99aa-e7933b86bcc6",
+    "data": [
+      {
+        "text": "👿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeeb9429-bc18-4875-bd9c-74a50a785495",
+    "data": [
+      {
+        "text": "👹",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e3bb717-329c-4ed4-94a2-07d8fc2e08a4",
+    "data": [
+      {
+        "text": "👺",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7021de2b-f812-484a-b1d2-19315b4f0164",
+    "data": [
+      {
+        "text": "💀",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41e2cb25-99f1-49a1-9eaf-b29c439b7a95",
+    "data": [
+      {
+        "text": "👻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e70918c4-f7af-4f3c-bb4a-84b5db332826",
+    "data": [
+      {
+        "text": "👽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63b98b2c-3d5d-4c50-a265-b3670700f1da",
+    "data": [
+      {
+        "text": "🤖",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2faad6c4-49a4-4d55-a57b-c0eb2f77a924",
+    "data": [
+      {
+        "text": "😺",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c187530-0e14-45fb-ac70-7f1eac31f2b0",
+    "data": [
+      {
+        "text": "😸",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e224b59-b57b-43e6-ae99-b55914f11370",
+    "data": [
+      {
+        "text": "😹",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1af81be6-bc7c-490e-85b7-cac486b1621c",
+    "data": [
+      {
+        "text": "😻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "504f876b-fcf2-4916-9214-6d30340a0280",
+    "data": [
+      {
+        "text": "😼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6231cf56-5644-44a3-b0b4-4fcf9f4a56ec",
+    "data": [
+      {
+        "text": "😽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60123320-b62a-4e0c-9689-e9d76f09b816",
+    "data": [
+      {
+        "text": "🙀",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e8dad6e-dc9b-47ca-a0ef-32a2cb049749",
+    "data": [
+      {
+        "text": "😿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f10c3cc1-5502-437f-bb35-ffbe5e67df84",
+    "data": [
+      {
+        "text": "😾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94c0f7d2-2c5b-42d1-bd1e-235aa5d6cba9",
+    "data": [
+      {
+        "text": "🙌",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b476e071-1234-4f87-a680-73706ae30ebc",
+    "data": [
+      {
+        "text": "🙌🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f23d66e-269f-44b4-8c22-322f1ec78a04",
+    "data": [
+      {
+        "text": "🙌🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26474c31-4962-4950-a3b1-6498b7379dda",
+    "data": [
+      {
+        "text": "🙌🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f912aa96-36b3-45d8-90f8-dcf40ec2bbda",
+    "data": [
+      {
+        "text": "🙌🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72646e35-69ba-471c-af8a-0c8d808aac1f",
+    "data": [
+      {
+        "text": "🙌🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3c16c7e-b701-4a54-9f3e-cd3d7b107f59",
+    "data": [
+      {
+        "text": "👏",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa900a71-a830-4371-8278-2fef59cab693",
+    "data": [
+      {
+        "text": "👏🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "667e97d3-6be8-4fed-b34c-c4d33602f885",
+    "data": [
+      {
+        "text": "👏🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a32283d-1802-4b8b-8011-5d32559d2982",
+    "data": [
+      {
+        "text": "👏🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36572b89-4f79-4c22-abda-5a12e00bc2b5",
+    "data": [
+      {
+        "text": "👏🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50b2a6bf-0c91-49da-bfc8-b5164c1f7f68",
+    "data": [
+      {
+        "text": "👋",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5bfba71-71e8-4566-abd6-847197d4787c",
+    "data": [
+      {
+        "text": "👋🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d036132-6f23-44ca-b54a-b5c69ffe49e5",
+    "data": [
+      {
+        "text": "👋🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c67cfffa-40ab-4bf4-9440-f5fd30625b4d",
+    "data": [
+      {
+        "text": "👋🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae1eaeeb-3520-4bcd-a913-88129b684c4c",
+    "data": [
+      {
+        "text": "👋🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f5f3c5e-1a4a-4536-b744-7507937d835f",
+    "data": [
+      {
+        "text": "👋🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "848e47fd-eb1e-4d87-9092-2e650b5b186f",
+    "data": [
+      {
+        "text": "👍",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c65688f-24a2-4963-b9ed-4e111c590d3f",
+    "data": [
+      {
+        "text": "👍🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7260da7f-1756-4379-a93e-660b9053953a",
+    "data": [
+      {
+        "text": "👍🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5282609-9988-42cd-9619-e7c11389682d",
+    "data": [
+      {
+        "text": "👍🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "322702e0-bb41-4d6e-88d2-ad759d4be963",
+    "data": [
+      {
+        "text": "👍🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf37b9c9-f8cc-4c8d-a0de-82c69656d0d5",
+    "data": [
+      {
+        "text": "👍🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa71d01c-b778-4fd8-843b-993d0bb2029b",
+    "data": [
+      {
+        "text": "👎",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7498297-cfe0-4813-8c0b-621486ed2ed1",
+    "data": [
+      {
+        "text": "👎🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccdb6377-3a6d-4d2b-b2a6-bc21d9c95022",
+    "data": [
+      {
+        "text": "👎🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "299f3175-bc30-46de-94f2-f624b5bf80f0",
+    "data": [
+      {
+        "text": "👎🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e1ac614-1d51-4860-a489-c1c1c9afd011",
+    "data": [
+      {
+        "text": "👎🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "695eb370-08b5-47e2-b85c-62eed045f444",
+    "data": [
+      {
+        "text": "👎🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef4c2d23-c701-45cb-8602-228878ee45c2",
+    "data": [
+      {
+        "text": "👊",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "398f9be2-b6b2-4ca3-9775-3ac28e02dad7",
+    "data": [
+      {
+        "text": "👊🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a867d5ad-5e5e-4a80-a45d-c91e72e3d663",
+    "data": [
+      {
+        "text": "👊🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3019a4dd-5793-4f74-98bb-0e5f565c9245",
+    "data": [
+      {
+        "text": "👊🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be313dd8-4457-4ca8-933c-2e06fa115b2a",
+    "data": [
+      {
+        "text": "👊🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8a07b3d-3ea6-45b1-97ae-e8b66cbed842",
+    "data": [
+      {
+        "text": "👊🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71c12ed8-69a3-46f2-8733-e02d40b603a1",
+    "data": [
+      {
+        "text": "✊",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a0c4346-9568-423e-934c-f570eccc2d40",
+    "data": [
+      {
+        "text": "✊🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1902edc4-97d6-47f8-b576-d9f4e5259319",
+    "data": [
+      {
+        "text": "✊🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "826cdccf-9c67-41f4-bc57-29c54cc31481",
+    "data": [
+      {
+        "text": "✊🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7b6bcef-2b09-4cab-887c-65ce49e3acd3",
+    "data": [
+      {
+        "text": "✊🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "affa21a2-113f-4e55-ac39-96ddd9ec7106",
+    "data": [
+      {
+        "text": "✊🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2c3e49b-a965-421f-839f-db51b003ad9e",
+    "data": [
+      {
+        "text": "✌",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd6d55a2-d952-4e75-af38-01ebe14b6eef",
+    "data": [
+      {
+        "text": "✌🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "478f0baa-e5e9-4d81-a111-c2c0d5b361c9",
+    "data": [
+      {
+        "text": "✌🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1676d3f-5ede-429d-9de3-cf198542fc02",
+    "data": [
+      {
+        "text": "✌🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dae4257-b2b7-4363-97ba-1964ce775946",
+    "data": [
+      {
+        "text": "✌🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "913b4bee-963d-4775-8f18-0da5e62b8a93",
+    "data": [
+      {
+        "text": "✌🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5edc7879-cc8e-49c7-ad5a-76311bdd5e36",
+    "data": [
+      {
+        "text": "👌",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22fe8656-f49e-43a5-a790-164f34c9762b",
+    "data": [
+      {
+        "text": "👌🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4861049-e67e-40f0-b6a2-4e26300f98ae",
+    "data": [
+      {
+        "text": "👌🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "543d925a-1e2a-4ed8-8e90-4c57bd000bc9",
+    "data": [
+      {
+        "text": "👌🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06eb81f9-ee70-4f12-bf79-ee7323bbc4dc",
+    "data": [
+      {
+        "text": "👌🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "335151c9-039b-4457-a0c5-96fd2e0a662f",
+    "data": [
+      {
+        "text": "👌🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ea50004-ab72-4607-8178-cd3eb79120b0",
+    "data": [
+      {
+        "text": "✋",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6053e90f-7726-49d0-99d8-d9dde99eac87",
+    "data": [
+      {
+        "text": "✋🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3de13d7d-0bdc-480f-8f16-a169e1ab6bae",
+    "data": [
+      {
+        "text": "✋🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa065fdb-f877-4333-916c-239e0987f491",
+    "data": [
+      {
+        "text": "✋🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a36c9e04-d8ce-490b-8d33-d156927d8485",
+    "data": [
+      {
+        "text": "✋🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aacc22b6-7e21-4cfe-9046-3c953903ad13",
+    "data": [
+      {
+        "text": "✋🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c0860ba-1b01-4907-b17b-7aa9b113f8ed",
+    "data": [
+      {
+        "text": "👐",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e10a9c78-19c8-436f-aab9-fb7b47450ef1",
+    "data": [
+      {
+        "text": "👐🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0439d23-83c2-4050-8253-070c3538d40a",
+    "data": [
+      {
+        "text": "👐🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da94fa5b-2880-4fff-817a-5c2feb0c4e80",
+    "data": [
+      {
+        "text": "👐🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c3737b1-7b30-415c-a4db-b420c54a2860",
+    "data": [
+      {
+        "text": "👐🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbf422a6-c378-4e6d-a5cc-9dbf029f6883",
+    "data": [
+      {
+        "text": "👐🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b41588ba-f9d4-4fda-be56-a95389668069",
+    "data": [
+      {
+        "text": "💪",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c692381-a1ad-4dc4-83e1-f157cf2c4564",
+    "data": [
+      {
+        "text": "💪🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7a5260f-861b-43e5-bd88-1016d4bb1adc",
+    "data": [
+      {
+        "text": "💪🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04cc46ac-12f8-424b-9276-435a3f013bdb",
+    "data": [
+      {
+        "text": "💪🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4b54ac0-e13b-4dfb-93f8-f66af9c7f0b2",
+    "data": [
+      {
+        "text": "💪🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92543c6f-d42a-442e-b30a-8133ac2357c5",
+    "data": [
+      {
+        "text": "💪🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afe3b2c6-8135-4cc8-a9f5-2f35f2a7c151",
+    "data": [
+      {
+        "text": "🙏",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c4a3a26-131d-4f62-aea1-bef110b20b45",
+    "data": [
+      {
+        "text": "🙏🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10b9f10d-fce0-44d4-b5eb-651873dcdbb8",
+    "data": [
+      {
+        "text": "🙏🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14a57b3c-5f5a-4af2-804b-d0f752a6e9aa",
+    "data": [
+      {
+        "text": "🙏🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a57c0f42-ebb0-436b-8c48-874727c0625f",
+    "data": [
+      {
+        "text": "🙏🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6acb9dd5-726a-40f1-9a71-0c9afc637dac",
+    "data": [
+      {
+        "text": "🙏🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea0302a3-db63-41d3-a4d2-03c78c17a838",
+    "data": [
+      {
+        "text": "☝",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75d9f79e-7f2d-4dd7-8c0a-d2c1433ad6db",
+    "data": [
+      {
+        "text": "☝🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2248ee0-7e94-455c-a095-3a2bf3688d24",
+    "data": [
+      {
+        "text": "☝🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "182a366f-85d6-4b5f-a48b-509cf3d1ecbf",
+    "data": [
+      {
+        "text": "☝🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05c90c09-5a7e-4f50-81f9-335b9d697318",
+    "data": [
+      {
+        "text": "☝🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f16fdc0-a520-4d83-8dff-c77ab87dad85",
+    "data": [
+      {
+        "text": "☝🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415dea11-0927-468c-b72f-95e12b92675f",
+    "data": [
+      {
+        "text": "👆",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9974bd1-646f-4c93-9233-d7e2bbd51d47",
+    "data": [
+      {
+        "text": "👆🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb40c2ed-08f6-419f-8aad-2831e61857c9",
+    "data": [
+      {
+        "text": "👆🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c4defae-6ad9-4360-8ec8-27a6285b0f8f",
+    "data": [
+      {
+        "text": "👆🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2de4c7c6-839e-477b-8551-2707f922014a",
+    "data": [
+      {
+        "text": "👆🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae6aecc7-fce3-4e83-b86e-55d133c1d22b",
+    "data": [
+      {
+        "text": "👆🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3f8e204-fef3-428e-97f4-82cd06fe27d4",
+    "data": [
+      {
+        "text": "👇",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c49de418-97de-4e2d-9bd7-d7dc9d1285ba",
+    "data": [
+      {
+        "text": "👇🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfc0bb8f-bc84-4f6b-bbe0-67261fddc5d3",
+    "data": [
+      {
+        "text": "👇🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72069bd8-2ef9-473d-bd7c-2be7d3938669",
+    "data": [
+      {
+        "text": "👇🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f20eddea-3521-4041-ad40-b76fe612b07d",
+    "data": [
+      {
+        "text": "👇🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29ed0deb-6d5a-4792-84c3-55f479071fe0",
+    "data": [
+      {
+        "text": "👇🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a707875d-888d-42c3-9694-054878059866",
+    "data": [
+      {
+        "text": "👈",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc0a68cf-f9af-4ce4-b3d3-4bb356f1d2bf",
+    "data": [
+      {
+        "text": "👈🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cbf21ab-4ccd-4b0d-9d87-88292461e087",
+    "data": [
+      {
+        "text": "👈🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b5a875e-39e8-4bce-9051-98e712346cb5",
+    "data": [
+      {
+        "text": "👈🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41a4fe62-7d8c-41bb-92bf-1df7dd0a33d7",
+    "data": [
+      {
+        "text": "👈🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85b944ed-6e34-4ec1-b462-1a3d62f5b72e",
+    "data": [
+      {
+        "text": "👈🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df78fd13-6e36-428e-9133-0a5803f48b7f",
+    "data": [
+      {
+        "text": "👉",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea218016-dbe2-471e-8e6b-78da19254c9a",
+    "data": [
+      {
+        "text": "👉🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "540d206a-6509-4ddf-8ec4-df06c2402424",
+    "data": [
+      {
+        "text": "👉🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73315906-d0b2-43e5-ab6f-1d8af808a5d8",
+    "data": [
+      {
+        "text": "👉🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e56fb067-2472-4615-944f-6b3f22317e24",
+    "data": [
+      {
+        "text": "👉🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "423cc513-2b53-48cc-ac40-d772551cb355",
+    "data": [
+      {
+        "text": "👉🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87365e74-7b67-4ee4-8386-ec7680d150c5",
+    "data": [
+      {
+        "text": "🖕",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8acdd9f8-d947-454b-a9a9-b72b5c5e934d",
+    "data": [
+      {
+        "text": "🖕🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1822939-b53f-4f4e-b718-152ce18ac4b0",
+    "data": [
+      {
+        "text": "🖕🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3887ba72-f61a-4c5a-a514-2d03f46c7ada",
+    "data": [
+      {
+        "text": "🖕🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84712dc6-342a-4b6b-8043-868b42ca8bb9",
+    "data": [
+      {
+        "text": "🖕🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce02e159-9667-4e94-ac8b-650417cfb058",
+    "data": [
+      {
+        "text": "🖕🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0238d3eb-954e-47cb-81e5-47d78ba22bce",
+    "data": [
+      {
+        "text": "🖐",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b17c3f04-46de-411d-a63e-2585a6282152",
+    "data": [
+      {
+        "text": "🖐🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e29c5787-21b1-4a54-a691-2a4ce84a31f0",
+    "data": [
+      {
+        "text": "🖐🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b3a1469-aa7e-4372-a7c2-7d28b73c653a",
+    "data": [
+      {
+        "text": "🖐🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f375da5b-48fa-4559-82ba-9b2857f64ab3",
+    "data": [
+      {
+        "text": "🖐🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb9e2d00-430d-4fca-8cca-d6f6a1e7e697",
+    "data": [
+      {
+        "text": "🖐🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccd917ae-9454-4d83-bb37-b0fb1c858e6c",
+    "data": [
+      {
+        "text": "🤘",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01713aff-17f2-4174-ad2e-83cd467aeefd",
+    "data": [
+      {
+        "text": "🤘🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eccdbf68-520c-4a01-aadd-d40bfacb7698",
+    "data": [
+      {
+        "text": "🤘🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b791420d-a0c0-484b-a8cd-b9674d4bb0ef",
+    "data": [
+      {
+        "text": "🤘🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f385baa-2e66-49f8-8b29-87fa158e3b2d",
+    "data": [
+      {
+        "text": "🤘🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f9bcfe3-6143-409e-8613-8ecb867963c2",
+    "data": [
+      {
+        "text": "🤘🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bd4ae63-61e5-486a-88fb-8cc35591300d",
+    "data": [
+      {
+        "text": "🖖",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2153f692-cbf2-4a3b-821f-a4903f9cd730",
+    "data": [
+      {
+        "text": "🖖🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6b63ee3-dffd-4b8e-a9e4-da3d6d0618e2",
+    "data": [
+      {
+        "text": "🖖🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9ee7fd6-f58d-4d72-b32d-98d0fe3619e6",
+    "data": [
+      {
+        "text": "🖖🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a0c053c-f2e8-4983-a7b7-edcca89e3fef",
+    "data": [
+      {
+        "text": "🖖🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bcd9ec1-f767-4da8-95ad-d625c62d9ec9",
+    "data": [
+      {
+        "text": "🖖🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3ac897d-deb5-4759-b7b7-550769f8cbf5",
+    "data": [
+      {
+        "text": "✍",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "949eab4a-9f0e-436b-bdd4-0500f0e1021e",
+    "data": [
+      {
+        "text": "✍🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "792ad287-16c8-4c63-bc46-a7a4f94d6253",
+    "data": [
+      {
+        "text": "✍🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3dfab8ff-5e0b-49f2-9da2-570804ea3983",
+    "data": [
+      {
+        "text": "✍🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da032903-ccef-46ee-ba19-49d4a2965709",
+    "data": [
+      {
+        "text": "✍🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33d35496-9634-4afc-8fad-8990cc268473",
+    "data": [
+      {
+        "text": "✍🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ba9f7e9-316c-4f2f-b1f0-effebdcc2f48",
+    "data": [
+      {
+        "text": "💅",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f7b441e-afdb-42f8-b5da-a1d8302faf84",
+    "data": [
+      {
+        "text": "💅🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13c54aea-b949-45b9-94e2-66c76edb9ad4",
+    "data": [
+      {
+        "text": "💅🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb7215df-147f-46fd-92ad-bc1a5f3525a2",
+    "data": [
+      {
+        "text": "💅🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91e35991-b598-4fea-aac5-79ca51318944",
+    "data": [
+      {
+        "text": "💅🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fc5ca60-baf2-404c-8d6e-061d5be8ba3a",
+    "data": [
+      {
+        "text": "💅🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e9747d1-bf52-4211-a704-c386c813e822",
+    "data": [
+      {
+        "text": "👄",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cef24f61-c2de-4b94-b5b0-f95af0f3547d",
+    "data": [
+      {
+        "text": "👅",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32a4265f-595a-4876-b39e-d8f097c4035a",
+    "data": [
+      {
+        "text": "👂",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f68bb0f1-9985-4bbf-808f-0b9edb411d07",
+    "data": [
+      {
+        "text": "👂🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34290360-d989-4232-89e5-f1fcd412ab20",
+    "data": [
+      {
+        "text": "👂🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf27f410-1ebb-4c32-ae3a-5421c18835ac",
+    "data": [
+      {
+        "text": "👂🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a14128d1-e4be-465a-9892-4f51477d9a1c",
+    "data": [
+      {
+        "text": "👂🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bed49c14-7ee7-46bb-8e55-b297c016949b",
+    "data": [
+      {
+        "text": "👂🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0e9c4f7-bfeb-4ccb-88df-6d3763a2f608",
+    "data": [
+      {
+        "text": "👃",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc0c017f-a364-4623-baab-b03557072947",
+    "data": [
+      {
+        "text": "👃🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae6cd1b4-0d41-4567-bd97-360033231f5d",
+    "data": [
+      {
+        "text": "👃🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d2f0122-449f-464e-b800-ee7f4859ec24",
+    "data": [
+      {
+        "text": "👃🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1eab470-3e1e-4e66-9e98-7382ec0f5746",
+    "data": [
+      {
+        "text": "👃🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc64db0c-fa7b-4eba-8fac-1cab0eb0d720",
+    "data": [
+      {
+        "text": "👃🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c385692-71b9-435c-bac3-aa526730b6e8",
+    "data": [
+      {
+        "text": "👁",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ae04a10-e70b-437b-abba-5db6adac46f1",
+    "data": [
+      {
+        "text": "👀",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c73b8be6-f787-41cb-b940-1bc119c30041",
+    "data": [
+      {
+        "text": "👤",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e3b12f-eab7-4cd4-ac10-eb0f88fc4d94",
+    "data": [
+      {
+        "text": "👥",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e8036d0-66a5-4139-930d-2cab0a9cd65e",
+    "data": [
+      {
+        "text": "🗣",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a93568a7-ecff-4ec5-8de1-367bba6db377",
+    "data": [
+      {
+        "text": "👶",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f2dd0a1-d3cc-4369-a3b3-f2e83bef4905",
+    "data": [
+      {
+        "text": "👶🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac0a39f5-e884-4b30-847a-bcc4031399c4",
+    "data": [
+      {
+        "text": "👶🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "691e2c10-1738-4b89-97fb-be53ccb6a013",
+    "data": [
+      {
+        "text": "👶🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be2b8091-d6b7-4a81-b9bc-af3bc7edd2b8",
+    "data": [
+      {
+        "text": "👶🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56df68bb-ad70-4b8d-829d-c8dc64567514",
+    "data": [
+      {
+        "text": "👶🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "462cdd29-76f4-48da-bdf8-facdb555eca1",
+    "data": [
+      {
+        "text": "👦",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e46258-8ef2-4a0f-9792-3032ceb0523a",
+    "data": [
+      {
+        "text": "👦🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1aecd414-2abb-47e9-ad19-f4fb66986552",
+    "data": [
+      {
+        "text": "👦🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1621241-a147-461c-8188-a69b39368e1a",
+    "data": [
+      {
+        "text": "👦🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23effe69-1951-4cee-8bba-6b1fc82ff0b6",
+    "data": [
+      {
+        "text": "👦🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70772714-c507-4d25-8370-9d3fc51e14a0",
+    "data": [
+      {
+        "text": "👦🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4eec545b-0286-4e91-b5c1-f29e710e8a35",
+    "data": [
+      {
+        "text": "👧",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70f3cc0f-a3b7-4056-80d8-39b0cd99b116",
+    "data": [
+      {
+        "text": "👧🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1b9191b-69a8-4dde-9858-c826c6573c7d",
+    "data": [
+      {
+        "text": "👧🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49e003f9-18c2-404a-b6da-d48e43fce745",
+    "data": [
+      {
+        "text": "👧🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57bd96b8-66b1-431f-b0bc-7802228432bc",
+    "data": [
+      {
+        "text": "👧🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc4a66d4-c5b0-42e5-969d-257c0452b506",
+    "data": [
+      {
+        "text": "👧🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "926c9dcb-4eed-40cd-bbbc-037cb27372e7",
+    "data": [
+      {
+        "text": "👨",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52df0c87-6aec-46ea-83e1-d7d06416d591",
+    "data": [
+      {
+        "text": "👨🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19f6f07c-4043-4451-a893-0a24f083cd66",
+    "data": [
+      {
+        "text": "👨🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2225af6-b7a8-47ca-a056-89941616adfe",
+    "data": [
+      {
+        "text": "👨🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7ebe094-424f-4cd8-b38e-e13d0146467c",
+    "data": [
+      {
+        "text": "👨🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "630b0652-06b5-4731-8c2a-154a61bc21c5",
+    "data": [
+      {
+        "text": "👨🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "050253df-a90c-4006-a786-d97acc969550",
+    "data": [
+      {
+        "text": "👩",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "327a6dd6-a331-4c4c-a701-8ca722d7dea6",
+    "data": [
+      {
+        "text": "👩🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7653d4f8-78c8-4ae7-8980-79d8ae91188e",
+    "data": [
+      {
+        "text": "👩🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d18b229f-c9a5-4042-a43e-44e95e884e3d",
+    "data": [
+      {
+        "text": "👩🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc34dc49-dabb-488d-b1dc-95c437e009ee",
+    "data": [
+      {
+        "text": "👩🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a566ef83-c886-4d5f-869f-a12bfbc9b8ed",
+    "data": [
+      {
+        "text": "👩🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c6a25a2-7d21-48a8-b6e7-306a7bd28686",
+    "data": [
+      {
+        "text": "👱",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccfd5bfc-028f-4734-831f-c7a30c9daea9",
+    "data": [
+      {
+        "text": "👱🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "588a9b39-49f5-482d-bfd8-9b943508fea4",
+    "data": [
+      {
+        "text": "👱🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9ed9e98-d8f3-4d11-9568-1e26b2581c91",
+    "data": [
+      {
+        "text": "👱🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c76e8936-15ee-4b37-8fdd-28faabb4aef5",
+    "data": [
+      {
+        "text": "👱🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f31bf5c-f237-47c8-87b7-2ca1106de2d5",
+    "data": [
+      {
+        "text": "👱🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87c452ad-f7d4-40f9-a598-f3fb9525d755",
+    "data": [
+      {
+        "text": "👴",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb519392-b40e-4d88-8f8c-2b5098f22752",
+    "data": [
+      {
+        "text": "👴🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2257185-170c-4fdc-b460-87ec305e47e4",
+    "data": [
+      {
+        "text": "👴🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dc407bf-b054-4147-a14e-e2e13b585dd0",
+    "data": [
+      {
+        "text": "👴🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbccc75b-13d1-437e-9fd5-48abfebe8c3e",
+    "data": [
+      {
+        "text": "👴🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc57a992-c482-47ea-816c-f6f5b5f4e45d",
+    "data": [
+      {
+        "text": "👴🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e65554b-604d-4a6a-bafe-7553fe3d5a39",
+    "data": [
+      {
+        "text": "👵",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b994765a-3917-4c96-bbec-31e48c6be547",
+    "data": [
+      {
+        "text": "👵🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9989e68-1e06-4f51-ab1e-b47719f08cbc",
+    "data": [
+      {
+        "text": "👵🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "484a9d26-7a96-4ff3-8630-8e2c35bd68c6",
+    "data": [
+      {
+        "text": "👵🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d77aeb2d-6929-4d0b-af9f-51bb3af2ac8d",
+    "data": [
+      {
+        "text": "👵🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "007c0759-116b-4ff7-b029-b65b3f8c0944",
+    "data": [
+      {
+        "text": "👵🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0950d3e-b9a7-47d5-aba3-931d564d8ff3",
+    "data": [
+      {
+        "text": "👲",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f38b0862-c66b-42be-9646-706c21e667b3",
+    "data": [
+      {
+        "text": "👲🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "567e0a64-7807-4c42-944e-aa709138cfb9",
+    "data": [
+      {
+        "text": "👲🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7045a79f-4f10-4835-8455-68be28df6bc3",
+    "data": [
+      {
+        "text": "👲🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5a452ae-3d42-4b32-9ceb-32bdbe917ece",
+    "data": [
+      {
+        "text": "👲🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5413fa08-a370-4b4a-b02c-7ccfe9d18a1c",
+    "data": [
+      {
+        "text": "👳",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb42c1c7-0e93-462a-84e7-53e2e2d9f33a",
+    "data": [
+      {
+        "text": "👳🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f0874f7-7b4f-4ed9-8caf-06893481a4dd",
+    "data": [
+      {
+        "text": "👳🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26efcbcc-069e-4b9e-9cc4-9224d9fd9625",
+    "data": [
+      {
+        "text": "👳🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "587ec2a7-2322-4c57-880e-4f9e65b44c1f",
+    "data": [
+      {
+        "text": "👳🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bcbb12f-5340-4779-8df1-f3dafca23e81",
+    "data": [
+      {
+        "text": "👳🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ee42de8-21e2-48b4-a8b3-ee37e3fe9393",
+    "data": [
+      {
+        "text": "👮",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fd8129b-0e76-48e8-ab49-f51dc2b65298",
+    "data": [
+      {
+        "text": "👮🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00f15bb9-c475-4bc5-a847-5f4e9d16478a",
+    "data": [
+      {
+        "text": "👮🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ceacf9c-6261-497e-8bcf-734610d2e938",
+    "data": [
+      {
+        "text": "👮🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaec8809-0833-4867-948d-02a65284e5a3",
+    "data": [
+      {
+        "text": "👮🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b7c5b63-f6b8-4b96-bb99-dde57d221d6a",
+    "data": [
+      {
+        "text": "👮🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b3345bf-51d2-42c7-9187-f221600fb182",
+    "data": [
+      {
+        "text": "👷",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ec7c8c9-b1c1-460b-b187-6b22e9c5d017",
+    "data": [
+      {
+        "text": "👷🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b2c6272-fb20-4781-9c7b-7269ec2be6fe",
+    "data": [
+      {
+        "text": "👷🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2650a66-613a-412d-a5fa-141dc8195bfd",
+    "data": [
+      {
+        "text": "👷🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3987a0e-5163-4c9c-bb40-4c2df56098b5",
+    "data": [
+      {
+        "text": "👷🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54387922-22dd-41f5-9734-a7e0ca5a370e",
+    "data": [
+      {
+        "text": "👷🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "299f4ea1-0ea9-4517-8c7c-3f503998a3b2",
+    "data": [
+      {
+        "text": "💂",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a01ae639-cd28-48f1-ad53-52973ed47c81",
+    "data": [
+      {
+        "text": "💂🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b342d916-fab3-41df-9555-5c3885709d04",
+    "data": [
+      {
+        "text": "💂🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eaaf1926-3057-48b0-a44f-73464f6a3cac",
+    "data": [
+      {
+        "text": "💂🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19fbec52-74f4-4a50-b1a7-99c02193e837",
+    "data": [
+      {
+        "text": "💂🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50e0fd71-98c2-48f9-a324-7674c9fccb9f",
+    "data": [
+      {
+        "text": "💂🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7ba2503-cf63-4fe5-8882-37aad738edda",
+    "data": [
+      {
+        "text": "🕵",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20cb4556-acd0-44fc-8292-635ad956adc4",
+    "data": [
+      {
+        "text": "🎅",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ee5e712-bd66-4bc5-9194-a183d550fbc5",
+    "data": [
+      {
+        "text": "🎅🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80efe2ee-9ff9-4a26-94bb-0a3f0af6b4a9",
+    "data": [
+      {
+        "text": "🎅🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6401c49-a071-4bed-959f-bb5d39d8dd7a",
+    "data": [
+      {
+        "text": "🎅🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3790cc7d-1c09-43f2-b44a-eb3eeb551cf7",
+    "data": [
+      {
+        "text": "🎅🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "174f0909-9080-4e77-810d-3994c431dc44",
+    "data": [
+      {
+        "text": "🎅🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "193340b0-154b-4682-9594-418efdc507be",
+    "data": [
+      {
+        "text": "👼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "621f65ee-3a75-4a46-83f5-bd808e8883de",
+    "data": [
+      {
+        "text": "👼🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7210752a-03e9-4909-8861-fc1a7eeaf60e",
+    "data": [
+      {
+        "text": "👼🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9848895-bef2-4039-bbef-b188d9881a4f",
+    "data": [
+      {
+        "text": "👼🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffde3915-c0f2-4679-bcbd-38ea2a825cd0",
+    "data": [
+      {
+        "text": "👼🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "938dc8e0-919b-4b2f-afbe-0041ecf5815c",
+    "data": [
+      {
+        "text": "👼🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e2ff3be-e0f3-4074-a7a0-0a4596ae87cc",
+    "data": [
+      {
+        "text": "👸",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "374fa07a-d91e-4664-9475-86628c2eb30b",
+    "data": [
+      {
+        "text": "👸🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82d2f45d-1dd8-4e76-81cb-04e41060cba8",
+    "data": [
+      {
+        "text": "👸🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "936ca0ba-7206-4c0a-9f43-67a11bfa5ca1",
+    "data": [
+      {
+        "text": "👸🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1f756d5-ca40-44c6-b64f-12834e469b35",
+    "data": [
+      {
+        "text": "👸🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f05aa256-d19b-4494-861e-6c55abec3ff6",
+    "data": [
+      {
+        "text": "👸🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1473e06-b5c2-4f0a-a459-20a83aa1f12a",
+    "data": [
+      {
+        "text": "👰",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b800a74f-7db5-497d-a49e-a13fdcb35702",
+    "data": [
+      {
+        "text": "👰🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7edb888-fdb1-470a-a35f-c2b2a976ad9e",
+    "data": [
+      {
+        "text": "👰🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28aa1e42-8afe-4575-af6f-a231a0bc7bc6",
+    "data": [
+      {
+        "text": "👰🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc0ec103-3176-440c-a012-4e99986b93dd",
+    "data": [
+      {
+        "text": "👰🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0b9c2f9-e60f-49c7-a9ae-19dfbc5872f7",
+    "data": [
+      {
+        "text": "👰🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "226cc827-e029-4a72-963e-6a95c07d8d5a",
+    "data": [
+      {
+        "text": "🚶",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72d23616-6513-4f4a-957f-284a8e615b3d",
+    "data": [
+      {
+        "text": "🚶🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29a785f6-7e09-4529-9d35-273af5342696",
+    "data": [
+      {
+        "text": "🚶🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3284d67-ecc4-4076-b7ee-2d72a7cfb8b4",
+    "data": [
+      {
+        "text": "🚶🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "830d5125-2c12-4147-9500-99a3dca1ed95",
+    "data": [
+      {
+        "text": "🚶🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2e93abb-e5d9-4503-a82c-fc7af1ef885a",
+    "data": [
+      {
+        "text": "🚶🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73dfc869-1683-4e54-9a69-45333dca7aae",
+    "data": [
+      {
+        "text": "🏃",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ef58816-2d08-46da-a9db-3a8c64818a6d",
+    "data": [
+      {
+        "text": "🏃🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfc994d7-7df0-44e6-8001-0da37ecebb18",
+    "data": [
+      {
+        "text": "🏃🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2ff66c0-7246-4f7c-a7a3-a57ed636c98e",
+    "data": [
+      {
+        "text": "🏃🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0199ea2-ce75-4164-b2a5-c93107dccee3",
+    "data": [
+      {
+        "text": "🏃🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a68c6ea7-d317-4ecc-b032-beaa8fe58973",
+    "data": [
+      {
+        "text": "🏃🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6ab1041-269c-4ce6-ac1f-c9467bc4f9fe",
+    "data": [
+      {
+        "text": "💃",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61d5c360-638a-4947-a70c-8bbed706d5bf",
+    "data": [
+      {
+        "text": "💃🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3282ffa-71d6-4c76-b352-21b5fb2538fa",
+    "data": [
+      {
+        "text": "💃🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8793644e-f43f-4277-9f2d-20e903c4d1b9",
+    "data": [
+      {
+        "text": "💃🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48347569-c56c-4eaa-8b17-b035e35b1d70",
+    "data": [
+      {
+        "text": "💃🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e562516-ce59-4a1e-b7ee-88e0afe31047",
+    "data": [
+      {
+        "text": "💃🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3e2e4e2-5243-4c8c-a71a-441b3815d951",
+    "data": [
+      {
+        "text": "👯",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30d40265-7a19-4f4e-9bb3-00523f3992c0",
+    "data": [
+      {
+        "text": "👫",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b2f102a-67f7-457a-861c-02ff0408d832",
+    "data": [
+      {
+        "text": "👬",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc0eb00e-3fcb-4ac4-a1db-53d37b0c1f66",
+    "data": [
+      {
+        "text": "👭",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6f3cc8b-07cf-416e-9417-358011a5101c",
+    "data": [
+      {
+        "text": "🙇",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ae007ad-259a-4c66-9cef-e3c1ee117873",
+    "data": [
+      {
+        "text": "🙇🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd828502-a101-434c-a09d-a8bc1ecd9920",
+    "data": [
+      {
+        "text": "🙇🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7723311-21e2-4765-8643-8ae90fa94b2c",
+    "data": [
+      {
+        "text": "🙇🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a26fd0d-b33e-48e7-967b-197676ec6caa",
+    "data": [
+      {
+        "text": "🙇🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af8dc120-4ff3-4063-b00b-e3e295a3b843",
+    "data": [
+      {
+        "text": "🙇🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dc3ec32-4dc1-4fc4-b1b3-9c5753df9272",
+    "data": [
+      {
+        "text": "💁",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c12e3575-53af-4a30-9f84-7f4a27ad5f19",
+    "data": [
+      {
+        "text": "💁🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "949e341c-1d17-4a15-ae84-f4ee6389336a",
+    "data": [
+      {
+        "text": "💁🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1a8d43c-9e54-47d7-a56a-ad7281c18012",
+    "data": [
+      {
+        "text": "💁🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3e8b5fa-eb7c-4a35-bdb8-057a20d3be42",
+    "data": [
+      {
+        "text": "💁🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0344d91-c60a-47b1-92e5-6941134fd768",
+    "data": [
+      {
+        "text": "💁🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33c491f7-bab3-4aca-b03c-d59a4b712e1e",
+    "data": [
+      {
+        "text": "🙅",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a59e680-52b9-43aa-ba6d-7693b8644d4e",
+    "data": [
+      {
+        "text": "🙅🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45add23f-86d5-4bd4-9e1b-3df1c8ad8717",
+    "data": [
+      {
+        "text": "🙅🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0badbf68-0e9a-41ff-8347-2883c3c46210",
+    "data": [
+      {
+        "text": "🙅🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2c2bacc-25e1-459d-a32d-fdf7f7e1ecc3",
+    "data": [
+      {
+        "text": "🙅🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dbdd238-618e-41c7-a91b-9f7fdd19d149",
+    "data": [
+      {
+        "text": "🙅🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f7934b6-e0c4-49eb-b0d5-2399cd00db7d",
+    "data": [
+      {
+        "text": "🙆",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68943196-2f62-4114-95d6-e197ce3600da",
+    "data": [
+      {
+        "text": "🙆🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "151e567b-e90e-43bb-891a-984c1e7d93cc",
+    "data": [
+      {
+        "text": "🙆🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b5942f2-8008-458a-9ac3-968430592c37",
+    "data": [
+      {
+        "text": "🙆🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e22996d8-7256-4651-8d22-0ff28f22c479",
+    "data": [
+      {
+        "text": "🙆🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f497cf42-c371-4ebd-8672-2fb755a9b55f",
+    "data": [
+      {
+        "text": "🙆🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42a3f2a4-cc2d-4904-bd21-9ec1c1528cc9",
+    "data": [
+      {
+        "text": "🙋",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87670bd0-08bf-4df8-8b54-c1c85077590f",
+    "data": [
+      {
+        "text": "🙋🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39e5bebe-23b9-4a63-a97f-49715329e8cb",
+    "data": [
+      {
+        "text": "🙋🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "195b5300-e7b5-430f-a9ed-2124efb0e0ed",
+    "data": [
+      {
+        "text": "🙋🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e50710b-b5b4-425e-8637-b84e109c7237",
+    "data": [
+      {
+        "text": "🙋🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "374f5567-1917-4f7a-9501-6fa3e682e6b2",
+    "data": [
+      {
+        "text": "🙋🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ca411d6-9890-495d-aa91-dc1d94a72be0",
+    "data": [
+      {
+        "text": "🙎",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c66b706-36b5-4ac3-b8cf-58f9740e9cfc",
+    "data": [
+      {
+        "text": "🙎🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f0c9750-3a19-462e-aafc-95bba748ce93",
+    "data": [
+      {
+        "text": "🙎🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cddb39c8-6890-4564-9a4c-101740152f91",
+    "data": [
+      {
+        "text": "🙎🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e71b53f3-48ca-4dea-a04c-587aa826bd7d",
+    "data": [
+      {
+        "text": "🙎🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f8d3863-0e24-4e36-8892-8266b6cbf4cf",
+    "data": [
+      {
+        "text": "🙎🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07fd2eb7-d3ce-428d-a2e6-261c4ebdc2e2",
+    "data": [
+      {
+        "text": "🙍",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73c84960-8954-4579-935d-2852f8b2f110",
+    "data": [
+      {
+        "text": "🙍🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fab5cc22-b181-4795-8345-f1b60b121c17",
+    "data": [
+      {
+        "text": "🙍🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6760a969-ba79-45d6-85f5-f8f5b46991f9",
+    "data": [
+      {
+        "text": "🙍🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7e3a5f4-5cf6-4a2e-8ddc-cdccd5de85bc",
+    "data": [
+      {
+        "text": "🙍🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f777b44-ea0d-475e-8943-538109f646de",
+    "data": [
+      {
+        "text": "🙍🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fcc61be-c9db-496b-8afd-78576e7ac193",
+    "data": [
+      {
+        "text": "💇",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a136c0e2-6089-4e0b-ba74-73d6d751705d",
+    "data": [
+      {
+        "text": "💇🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b65b6ef-669d-417a-b970-1a96ad2ddaf1",
+    "data": [
+      {
+        "text": "💇🏼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f5c63b6-ec3b-4477-8f79-8800d267e9cb",
+    "data": [
+      {
+        "text": "💇🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa91af0b-06e2-43cd-b5ec-626606c32ef5",
+    "data": [
+      {
+        "text": "💇🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80079f87-c128-4d25-8c75-75378d762f44",
+    "data": [
+      {
+        "text": "💇🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4231abf-f9fd-4e23-b395-b20e77ee4e25",
+    "data": [
+      {
+        "text": "💆",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11a17a50-1e8c-434a-b199-1f7ec81d3998",
+    "data": [
+      {
+        "text": "💆🏻",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ef1a193e-8407-48f3-b694-d477a9761004",
+    "data": [
+      {
+        "text": "💆🏽",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6be955e-cda9-4198-8dce-5fd7a0c6a21c",
+    "data": [
+      {
+        "text": "💆🏾",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f08b24f-651c-41ba-ab42-11e632880c65",
+    "data": [
+      {
+        "text": "💆🏿",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "920ec68f-b419-4230-9bf5-b4266e433bb4",
+    "data": [
+      {
+        "text": "💑",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a92f5028-ea74-4d02-88e6-fa94f21c4ea4",
+    "data": [
+      {
+        "text": "👩‍❤️‍👩",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d21d80ce-a675-45cc-8223-8a65aaeeec3a",
+    "data": [
+      {
+        "text": "👨‍❤️‍👨",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac398468-087d-4347-873a-af6697e9b76c",
+    "data": [
+      {
+        "text": "💏",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e58fc36-3549-4eb0-bf77-0fa56e16460e",
+    "data": [
+      {
+        "text": "👩‍❤️‍💋‍👩",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69e6d70b-d08a-4efb-8cd3-c27e8d903e7b",
+    "data": [
+      {
+        "text": "👨‍❤️‍💋‍👨",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a487793-ca8d-42a2-95f8-1367b9f24dbc",
+    "data": [
+      {
+        "text": "👪",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7eb3863-c933-4a26-a8ce-99fdc478e08f",
+    "data": [
+      {
+        "text": "👨‍👩‍👧",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58694f83-853a-4ea5-80ee-eac4f9b9a377",
+    "data": [
+      {
+        "text": "👨‍👩‍👧‍👦",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab549823-a68d-4e05-b2fd-bba61ef957e5",
+    "data": [
+      {
+        "text": "👨‍👩‍👦‍👦",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aef1eed3-c274-4ec1-a62f-ae78d61ad404",
+    "data": [
+      {
+        "text": "👨‍👩‍👧‍👧",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a8d1c12-c24e-4a44-b00d-d8c32ae9393d",
+    "data": [
+      {
+        "text": "👩‍👩‍👦",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79a63bf3-3e4f-4e6d-90d0-29d6f085edc9",
+    "data": [
+      {
+        "text": "👩‍👩‍👧",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a426c663-2c7b-44ff-b5ac-d95da7efd6de",
+    "data": [
+      {
+        "text": "👩‍👩‍👧‍👦",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03a2dce3-b0b3-4eca-99a1-93fa5e5e3711",
+    "data": [
+      {
+        "text": "👩‍👩‍👦‍👦",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69011da3-66b6-42d8-af88-01c66f36116d",
+    "data": [
+      {
+        "text": "👩‍👩‍👧‍👧",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "706549fb-4155-4113-932e-4e60c7c404d4",
+    "data": [
+      {
+        "text": "👨‍👨‍👦",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed6e9051-bf81-4a04-b9e8-1469f33e7aa7",
+    "data": [
+      {
+        "text": "👨‍👨‍👧",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6d8ed3a-0480-4af5-a42a-2bd97412767f",
+    "data": [
+      {
+        "text": "👨‍👨‍👧‍👦",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9338a196-3414-4e76-859e-b2f02b568ffa",
+    "data": [
+      {
+        "text": "👨‍👨‍👦‍👦",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14dd4bc2-c314-4da6-944b-6fae6c64b966",
+    "data": [
+      {
+        "text": "👨‍👨‍👧‍👧",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd87a5f8-8fcc-45c1-bcaa-0d627780a987",
+    "data": [
+      {
+        "text": "👚",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec32c441-aa07-449f-9944-12b8a1d2cc13",
+    "data": [
+      {
+        "text": "👕",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce2ea527-ad55-4b6f-af5d-3783759e8092",
+    "data": [
+      {
+        "text": "👖",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68d171c1-383d-446a-9630-d857e92f4b70",
+    "data": [
+      {
+        "text": "👔",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "634d73c4-e469-4af2-83b1-0517bdde612c",
+    "data": [
+      {
+        "text": "👗",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e25e78b-7c2d-4c04-b843-a13b135ffdfc",
+    "data": [
+      {
+        "text": "👙",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41746891-8f20-42b2-8736-412b9e3d9b37",
+    "data": [
+      {
+        "text": "👘",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20740e03-30b0-41ef-8cff-465c6471dada",
+    "data": [
+      {
+        "text": "💄",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b5bd7d0-79aa-4ad8-8ae0-4d476fdc73a1",
+    "data": [
+      {
+        "text": "💋",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0423913c-5b59-4230-9077-b83c6619cc33",
+    "data": [
+      {
+        "text": "👣",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf0db688-75d5-44e6-a56e-de3c62870ce6",
+    "data": [
+      {
+        "text": "👠",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cf8ebc3-d1de-458a-b05d-519907cdea25",
+    "data": [
+      {
+        "text": "👡",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c5fbe48-ae82-4aa5-b26e-7050286da55c",
+    "data": [
+      {
+        "text": "👢",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47817f5e-678c-467b-8d00-87506b0c07f7",
+    "data": [
+      {
+        "text": "👞",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55fc4684-0827-43dc-b78d-ea5ed2c38349",
+    "data": [
+      {
+        "text": "👟",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcfc9fe4-19ac-4717-96f4-7db28595d15e",
+    "data": [
+      {
+        "text": "👒",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82a615f2-701c-4890-a441-014e3326194f",
+    "data": [
+      {
+        "text": "🎩",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb3442aa-a2f8-43d0-bf43-b01568194c8a",
+    "data": [
+      {
+        "text": "🎓",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a52c3c19-cf0a-4ab4-a5ca-166d586d476b",
+    "data": [
+      {
+        "text": "👑",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "456673ae-cf4b-48fb-8aaa-a144e20e5dc9",
+    "data": [
+      {
+        "text": "⛑",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2820f4ee-04d7-41ca-bba6-a961b91948d6",
+    "data": [
+      {
+        "text": "🎒",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9021c97-df68-459a-9d57-71d67037b050",
+    "data": [
+      {
+        "text": "👝",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59095f7b-5a86-4cce-9a13-51bcf8e3a3c1",
+    "data": [
+      {
+        "text": "👛",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17af6b1d-fed9-4f1b-a2b8-3b7275fed925",
+    "data": [
+      {
+        "text": "👜",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0581bc2-2b28-49c5-8b47-b80ce0939389",
+    "data": [
+      {
+        "text": "💼",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d842b74a-4ea0-450f-9571-7cdc9961078f",
+    "data": [
+      {
+        "text": "👓",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57ff4688-1d7c-4148-994e-71ae35a115cd",
+    "data": [
+      {
+        "text": "🕶",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6d6a801-63a1-49f8-ae4b-e7c61ce3aa85",
+    "data": [
+      {
+        "text": "💍",
+        "alias": "Smileys_People_Emoji_Entity",
+        "meta": "@Smileys_People_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

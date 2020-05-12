@@ -1,0 +1,37 @@
+{
+  "id": "6c6d842b-0924-4995-abee-797dfd1cdddf",
+  "name": "author",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.author",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I was created by Alfred Hon, and I\u0027m made using Python and a bunch of other cool languages.",
+            "Alfred Hon is my father",
+            "Alfred",
+            "My parents I suppose."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

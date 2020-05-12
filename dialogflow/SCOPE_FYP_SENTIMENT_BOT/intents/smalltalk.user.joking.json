@@ -1,0 +1,38 @@
+{
+  "id": "ee4c51e1-5251-4b83-920a-2eefcaaa77ec",
+  "name": "smalltalk.user.joking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.joking",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Very funny, boss.",
+            "You\u0027re quite the kidder.",
+            "You got me.",
+            "I like working for someone with a sense of humour. It makes things much more fun.",
+            "Oh lol"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

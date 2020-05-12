@@ -1,0 +1,37 @@
+{
+  "id": "69d15fa7-5f8e-4402-94e1-a9f807d694c1",
+  "name": "custom.smalltalk.agent.can_you_help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.can_you_help",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Sure. I\u0027d be happy to. What\u0027s up?",
+            "I\u0027m glad to help. What can I do for you?",
+            "How can I help you? Why do you want me to help you?",
+            "What\u0027s wrong? If you ask for help in the form of a question, I might be able to solve your problem."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

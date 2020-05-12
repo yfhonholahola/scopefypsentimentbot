@@ -1,0 +1,48 @@
+{
+  "id": "684a629a-5725-4119-ba62-469fad91605c",
+  "name": "emoji_handling.travel_n_places",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "127108ea-bc3d-4e3f-86bc-7e78e6f51d28",
+          "required": false,
+          "dataType": "@Travel_Places_Emoji_Entity",
+          "name": "Travel_Places_Emoji_Entity",
+          "value": "$Travel_Places_Emoji_Entity",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "$Travel_Places_Emoji_Entity~Cool~",
+            "I am still learning this emoji $Travel_Places_Emoji_Entity.",
+            "Sorry, I don\u0027t understand this emoji $Travel_Places_Emoji_Entity yet! 😃🙏🏻"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

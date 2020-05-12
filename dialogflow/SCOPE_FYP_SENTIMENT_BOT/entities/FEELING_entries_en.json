@@ -1,0 +1,295 @@
+[
+  {
+    "value": "empty",
+    "synonyms": [
+      "helpless",
+      "incapable",
+      "alone",
+      "paralyzed",
+      "fatigued",
+      "useless",
+      "inferior",
+      "vulnerable",
+      "empty",
+      "forced",
+      "hesitant",
+      "despair",
+      "frustrated",
+      "distressed",
+      "woeful",
+      "pathetic",
+      "tragic",
+      "in a stew",
+      "dominated"
+    ]
+  },
+  {
+    "value": "enthusiasm",
+    "synonyms": [
+      "enthusiasm",
+      "positive",
+      "eager",
+      "keen",
+      "earnest",
+      "intent",
+      "inspired",
+      "determined",
+      "excited",
+      "enthusiastic",
+      "bold",
+      "brave",
+      "daring",
+      "optimistic",
+      "alive",
+      "playful",
+      "courageous",
+      "energetic",
+      "impulsive",
+      "animated",
+      "spirited",
+      "thrilled",
+      "wonderful"
+    ]
+  },
+  {
+    "value": "neutral",
+    "synonyms": [
+      "neutral"
+    ]
+  },
+  {
+    "value": "worry",
+    "synonyms": [
+      "worry",
+      "afraid",
+      "fearful",
+      "terrified",
+      "suspicious",
+      "anxious",
+      "alarmed",
+      "panic",
+      "nervous",
+      "scared",
+      "worried",
+      "frightened",
+      "timid",
+      "shaky",
+      "restless",
+      "doubtful",
+      "threatened",
+      "cowardly",
+      "quaking",
+      "wary"
+    ]
+  },
+  {
+    "value": "surprise",
+    "synonyms": [
+      "surprise"
+    ]
+  },
+  {
+    "value": "love",
+    "synonyms": [
+      "love",
+      "loving",
+      "considerate",
+      "affectionate",
+      "sensitive",
+      "tender",
+      "devoted",
+      "attracted",
+      "passionate",
+      "admiration",
+      "warm",
+      "touched",
+      "close",
+      "comforted",
+      "loved"
+    ]
+  },
+  {
+    "value": "fun",
+    "synonyms": [
+      "fun"
+    ]
+  },
+  {
+    "value": "happiness",
+    "synonyms": [
+      "happiness",
+      "happy",
+      "great",
+      "joyous",
+      "lucky",
+      "fortunate",
+      "delighted",
+      "overjoyed",
+      "gleeful",
+      "thankful",
+      "important",
+      "festive",
+      "ecstatic",
+      "glad",
+      "cheerful",
+      "elated",
+      "jubilant",
+      "euphoric"
+    ]
+  },
+  {
+    "value": "boredom",
+    "synonyms": [
+      "boredom",
+      "indifferent",
+      "insensitive",
+      "dull",
+      "nonchalant",
+      "reserved",
+      "weary",
+      "bored",
+      "preoccupied",
+      "cold",
+      "disinterested",
+      "lifeless"
+    ]
+  },
+  {
+    "value": "relief",
+    "synonyms": [
+      "relief"
+    ]
+  },
+  {
+    "value": "anger",
+    "synonyms": [
+      "anger",
+      "hate",
+      "angry",
+      "irritated",
+      "enraged",
+      "hostile",
+      "insulting",
+      "annoyed",
+      "hateful",
+      "offensive",
+      "bitter",
+      "aggressive",
+      "resentful",
+      "inflamed",
+      "provoked",
+      "incensed",
+      "infuriated",
+      "cross",
+      "worked up",
+      "boiling",
+      "fuming"
+    ]
+  },
+  {
+    "value": "open",
+    "synonyms": [
+      "openness",
+      "understanding",
+      "confident",
+      "reliable",
+      "easy",
+      "amazed",
+      "free",
+      "sympathetic",
+      "interested",
+      "satisfied",
+      "receptive",
+      "accepting",
+      "kind",
+      "liberated"
+    ]
+  },
+  {
+    "value": "good",
+    "synonyms": [
+      "good",
+      "calm",
+      "peaceful",
+      "at ease",
+      "comfortable",
+      "pleased",
+      "encouraged",
+      "surprised",
+      "content",
+      "quiet",
+      "relaxed",
+      "serene",
+      "reassured",
+      "pleasant"
+    ]
+  },
+  {
+    "value": "interested",
+    "synonyms": [
+      "concerned",
+      "affected",
+      "fascinated",
+      "intrigued",
+      "absorbed",
+      "inquisitive",
+      "engrossed",
+      "curious",
+      "drawn toward"
+    ]
+  },
+  {
+    "value": "sad",
+    "synonyms": [
+      "tearful",
+      "sorrowful",
+      "pained",
+      "grief",
+      "anguish",
+      "desolate",
+      "desperate",
+      "pessimistic",
+      "unhappy",
+      "lonely",
+      "grieved",
+      "mournful",
+      "dismayed",
+      "depressed",
+      "lousy",
+      "disappointed",
+      "discouraged",
+      "ashamed",
+      "powerless",
+      "diminished",
+      "guilty",
+      "dissatisfied",
+      "miserable",
+      "detestable",
+      "repugnant",
+      "despicable",
+      "disgusting",
+      "abominable",
+      "terrible",
+      "in despair",
+      "sulky",
+      "bad",
+      "confused",
+      "upset",
+      "uncertain",
+      "indecisive",
+      "perplexed",
+      "embarrassed",
+      "shy",
+      "stupefied",
+      "disillusioned",
+      "unbelieving",
+      "skeptical",
+      "distrustful",
+      "misgiving",
+      "lost",
+      "unsure",
+      "uneasy",
+      "tense"
+    ]
+  }
+]

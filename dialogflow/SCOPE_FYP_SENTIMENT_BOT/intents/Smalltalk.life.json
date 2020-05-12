@@ -1,0 +1,36 @@
+{
+  "id": "506734b9-feca-4f45-9a88-35c51db0962f",
+  "name": "Smalltalk.life",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.life",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "42",
+            "The meaning of life is just be alive. Its so plain and obvious and so simple. Yet everybody rushes around to accomplish something bigger than themselves. With that being said, you do you.",
+            "The meaning of life can be interpreted in almost limitless ways. But I say the meaning of life is to truly enjoy it."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

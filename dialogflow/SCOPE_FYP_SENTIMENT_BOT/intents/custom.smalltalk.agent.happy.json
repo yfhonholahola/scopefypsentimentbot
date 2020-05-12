@@ -1,0 +1,49 @@
+{
+  "id": "09ce5f7b-c56b-472d-b78f-95fc585593a7",
+  "name": "custom.smalltalk.agent.happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.happy",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a56bb91d-60fe-4a75-879d-2998188055ec",
+          "required": false,
+          "dataType": "@FEELING",
+          "name": "FEELING",
+          "value": "$FEELING",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Happiness is relative.",
+            "I\u0027d like to think so.",
+            "Yes I can say I am very happy."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

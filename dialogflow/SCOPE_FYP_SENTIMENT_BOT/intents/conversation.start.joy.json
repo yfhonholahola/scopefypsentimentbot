@@ -1,0 +1,56 @@
+{
+  "id": "aeb3a8bb-4f6d-46ca-ac84-ff1d566ad81e",
+  "parentId": "7d9950cc-af8a-418d-a97a-7845546f99ca",
+  "rootParentId": "7d9950cc-af8a-418d-a97a-7845546f99ca",
+  "name": "conversation.start.joy",
+  "auto": true,
+  "contexts": [
+    "conversation-start",
+    "conversationstart-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conversationstart.conversationstart-more",
+      "affectedContexts": [
+        {
+          "name": "conversation-start-joy",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "eac5ae29-9fdd-454d-8fb0-96d91c68966b",
+          "required": false,
+          "dataType": "@FEELING",
+          "name": "FEELING",
+          "value": "$FEELING",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Excellent! That\u0027s what I like to see."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

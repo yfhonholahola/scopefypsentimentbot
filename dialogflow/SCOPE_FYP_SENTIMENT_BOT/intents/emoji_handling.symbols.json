@@ -1,0 +1,48 @@
+{
+  "id": "f62eeedb-ebd5-41e4-8c84-c5c21b509215",
+  "name": "emoji_handling.symbols",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c2c8167e-0023-4912-bd57-a312a48636c8",
+          "required": false,
+          "dataType": "@Symbols_Emoji_Entity",
+          "name": "Symbols_Emoji_Entity",
+          "value": "$Symbols_Emoji_Entity",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "$Symbols_Emoji_Entity~Cool~",
+            "I am still learning this emoji $Symbols_Emoji_Entity.",
+            "Sorry, I don\u0027t understand this emoji $Symbols_Emoji_Entity yet! 😃🙏🏻"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

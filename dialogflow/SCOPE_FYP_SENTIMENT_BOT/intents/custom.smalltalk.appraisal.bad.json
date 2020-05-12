@@ -1,0 +1,35 @@
+{
+  "id": "77e41a9d-81cb-4933-bbd8-5d71a49c1463",
+  "name": "custom.smalltalk.appraisal.bad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.appraisal.bad",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Oh no. Hope it\u0027s not too bad.",
+            "I\u0027m sorry. Please let me know if I can help in some way."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

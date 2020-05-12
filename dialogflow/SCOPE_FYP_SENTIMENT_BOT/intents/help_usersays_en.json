@@ -1,0 +1,55 @@
+[
+  {
+    "id": "505490eb-0404-4de2-bf61-1733be6c1abe",
+    "data": [
+      {
+        "text": "what can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "07e4f316-14b0-45d1-89e8-eb737c3b04b3",
+    "data": [
+      {
+        "text": "/help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8d5d480-3b54-4cca-ad8a-2c425db317b5",
+    "data": [
+      {
+        "text": "setting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4ad4aa3-72b9-412d-86ab-7ec9ea330e75",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

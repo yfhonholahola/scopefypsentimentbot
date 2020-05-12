@@ -1,0 +1,39 @@
+{
+  "id": "3d09e814-ae07-4fa4-ba60-90aeb91232aa",
+  "name": "custom.smalltalk.agent.greeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.acquaintance",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m great thanks for asking",
+            "I\u0027m doing pretty swell",
+            "I\u0027d say im doing well, and you?",
+            "I\u0027m doing good and how about you?",
+            "Pretty good thanks How about you?",
+            "My day is going extremely well. How about yours?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

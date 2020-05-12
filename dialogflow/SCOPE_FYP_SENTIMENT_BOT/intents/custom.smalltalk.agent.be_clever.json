@@ -1,0 +1,38 @@
+{
+  "id": "0a86cb12-465a-495e-a8da-90e16265a954",
+  "name": "custom.smalltalk.agent.be_clever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.be_clever",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m certainly trying.",
+            "I\u0027m definitely working on it.",
+            "Phew. My mind is becoming more complex all the time",
+            "OK I will try to be smart",
+            "Whatever you say."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

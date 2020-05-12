@@ -1,0 +1,9 @@
+{
+  "id": "ab64504f-4c35-4a77-a8bc-967f178e8907",
+  "name": "BADWORD",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

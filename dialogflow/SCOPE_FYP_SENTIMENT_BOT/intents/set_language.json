@@ -1,0 +1,51 @@
+{
+  "id": "018b1f6b-02e4-463d-91f9-bfb98b9a5479",
+  "name": "set_language",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "set_language",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fbd5e7ce-2e0b-4e1e-b0f4-4fd5fd389f3a",
+          "required": true,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Done."
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "condition": "",
+          "speech": "搞掂"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

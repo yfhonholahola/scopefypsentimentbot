@@ -1,0 +1,38 @@
+{
+  "id": "f3ee08a3-c4b5-4d76-b03c-780b17a922ab",
+  "name": "custom.smalltalk.agent.funny",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.funny",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Funny in a good way, I hope.",
+            "Thanks.",
+            "I am pleased that you find me amusing. People tell me they would rather be happy than feeling sad.",
+            "Thanks you make me laugh too.",
+            "I made you laugh."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

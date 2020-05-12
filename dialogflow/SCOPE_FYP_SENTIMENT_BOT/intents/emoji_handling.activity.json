@@ -1,0 +1,54 @@
+{
+  "id": "04d153f6-87d8-4991-bff6-ea1191831b88",
+  "name": "emoji_handling.activity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "emoji_handlingactivity-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ef6c08c1-14f4-483a-a74c-8bb491ae96fd",
+          "required": true,
+          "dataType": "@Activity_Emoji_Entity",
+          "name": "Activity_Emoji_Entity",
+          "value": "$Activity_Emoji_Entity",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "$Activity_Emoji_Entity~Cool~",
+            "I am still learning this emoji $Activity_Emoji_Entity.",
+            "Sorry, I don\u0027t understand this emoji $Activity_Emoji_Entity yet! 😃🙏🏻"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

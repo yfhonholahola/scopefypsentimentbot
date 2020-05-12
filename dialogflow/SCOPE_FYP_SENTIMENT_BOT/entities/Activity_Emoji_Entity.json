@@ -1,0 +1,9 @@
+{
+  "id": "3bfc4727-2058-4e67-b091-f97fba66e2b1",
+  "name": "Activity_Emoji_Entity",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

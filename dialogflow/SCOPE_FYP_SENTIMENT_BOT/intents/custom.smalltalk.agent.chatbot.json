@@ -1,0 +1,37 @@
+{
+  "id": "bad9d673-a526-4df1-819c-03973739a0af",
+  "name": "custom.smalltalk.agent.chatbot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.chatbot",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "That\u0027s me. I chat, therefore I am.",
+            "Indeed I am. I\u0027ll be here whenever you need me.",
+            "That\u0027s quite correct. I am a chatbot who can talk to you and be your friend.",
+            "I am a robot program."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

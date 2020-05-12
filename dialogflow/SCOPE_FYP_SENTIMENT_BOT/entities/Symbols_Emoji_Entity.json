@@ -1,0 +1,9 @@
+{
+  "id": "9830a68d-c8d0-4d90-9a1d-13b9780d7352",
+  "name": "Symbols_Emoji_Entity",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

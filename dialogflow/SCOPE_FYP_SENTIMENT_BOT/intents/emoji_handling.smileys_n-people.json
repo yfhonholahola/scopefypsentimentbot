@@ -1,0 +1,56 @@
+{
+  "id": "ca932acd-f0bd-44d6-aa92-d24f52260f26",
+  "name": "emoji_handling.smileys_n-people",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6e4d2f82-9db2-4039-afee-e586a1d91258",
+          "required": false,
+          "dataType": "@Smileys_People_Emoji_Entity",
+          "name": "Smileys_People_Emoji_Entity",
+          "value": "$Smileys_People_Emoji_Entity",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "$Smileys_People_Emoji_Entity",
+            "Cool emoji"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Anything you want to say?",
+            "What\u0027s else?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

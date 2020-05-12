@@ -1,0 +1,40 @@
+{
+  "id": "a71baf16-436e-4ec1-994b-8f78993f3ec6",
+  "name": "smalltalk.greetings.bye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.bye",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "See you soon!",
+            "Bye-bye!",
+            "Till next time!",
+            "Bye.",
+            "Adieu",
+            "Adios",
+            "Ill see you when you return."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

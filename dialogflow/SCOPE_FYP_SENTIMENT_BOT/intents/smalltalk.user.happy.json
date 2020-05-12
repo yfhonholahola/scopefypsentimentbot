@@ -1,0 +1,37 @@
+{
+  "id": "10f8ea37-83fd-4c0e-8160-d79aa6c05210",
+  "name": "smalltalk.user.happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.happy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Great! Glad to hear that.",
+            "Excellent! That\u0027s what I like to see.",
+            "If you\u0027re happy, then I\u0027m happy.",
+            "Well, your good mood is certainly contagious."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

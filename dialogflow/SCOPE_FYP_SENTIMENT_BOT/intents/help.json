@@ -1,0 +1,47 @@
+{
+  "id": "13a03396-b079-4da3-b050-68310f1df79e",
+  "name": "help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I can chat with you and keep you company. I can also tell jokes, stories, current time, and weather. I can sometimes show you pictures."
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "condition": "",
+          "speech": "我咩都唔識"
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "condition": "",
+          "speech": "除咗同你傾計😘 陪下你😘我仲識講笑話, 故仔. 你仲可以知道而家時間同天氣. 有時我仲識用相同你溝通"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TELEGRAM_HELP"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

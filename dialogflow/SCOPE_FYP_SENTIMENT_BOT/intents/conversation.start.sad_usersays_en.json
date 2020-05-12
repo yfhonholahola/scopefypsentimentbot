@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dcc97da1-1b23-41c5-a840-4516290f387e",
+    "data": [
+      {
+        "text": "I was sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "194e6658-b859-444b-8e30-9899abac2053",
+    "data": [
+      {
+        "text": "a movie with an ",
+        "userDefined": false
+      },
+      {
+        "text": "unhappy",
+        "alias": "FEELING",
+        "meta": "@FEELING",
+        "userDefined": true
+      },
+      {
+        "text": " ending.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "452d90ff-3833-4d08-8202-7fedd474ec03",
+    "data": [
+      {
+        "text": "I felt ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "alias": "FEELING",
+        "meta": "@FEELING",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

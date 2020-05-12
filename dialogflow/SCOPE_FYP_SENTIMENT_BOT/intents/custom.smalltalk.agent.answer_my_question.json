@@ -1,0 +1,40 @@
+{
+  "id": "0adc4322-227b-440a-b6bd-21925bea08da",
+  "name": "custom.smalltalk.agent.answer_my_question",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.answer_my_question",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Sure. Go ahead and ask me a question.",
+            "Try asking another way?",
+            "Please try asking it another way.",
+            "Ask me anything.",
+            "Please rephrase the question and try asking me again.",
+            "Can you try asking it a different way?",
+            "Maybe you could find the answer on the internet."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

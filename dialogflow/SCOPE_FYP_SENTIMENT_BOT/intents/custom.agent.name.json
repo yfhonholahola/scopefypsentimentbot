@@ -1,0 +1,57 @@
+{
+  "id": "fbf345da-5790-4cc7-b5f5-128a6bed2f32",
+  "name": "custom.agent.name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.agent.name",
+      "affectedContexts": [
+        {
+          "name": "name",
+          "parameters": {},
+          "lifespan": 99
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5f20766f-3cd7-4d07-aacd-17cb0d1638c5",
+          "required": false,
+          "dataType": "@sys.person",
+          "name": "eng_name",
+          "value": "$eng_name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hello $eng_name"
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "condition": "",
+          "speech": "你好$name"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

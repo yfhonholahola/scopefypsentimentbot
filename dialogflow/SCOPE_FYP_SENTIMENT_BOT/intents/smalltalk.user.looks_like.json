@@ -1,0 +1,37 @@
+{
+  "id": "252868e4-0bab-475b-8288-6ecd1ad25991",
+  "name": "smalltalk.user.looks_like",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.looks_like",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Looking like a true professional, boss.",
+            "You look like you\u0027re ready to take on the world.",
+            "Like you should be on a magazine cover.",
+            "You look fantastic as always. Obviously."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "df92ebc0-8ea7-43c3-993c-aa2fd9578c99",
+    "data": [
+      {
+        "text": "🚗",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d34df4b8-c3d7-4582-becd-0b3cef142505",
+    "data": [
+      {
+        "text": "🚕",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92864c36-4bfd-4511-9825-72f337819172",
+    "data": [
+      {
+        "text": "🚙",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f2c49f2-71a9-45ee-9fa2-e63b2c320808",
+    "data": [
+      {
+        "text": "🚌",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "773b0e9b-7c81-4b66-9ece-d9f3d5e4491f",
+    "data": [
+      {
+        "text": "🚎",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17e3eb18-20ce-49b7-bc0e-e48026e3c1e8",
+    "data": [
+      {
+        "text": "🏎",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24c51851-72b9-4454-b24d-eb89591d216b",
+    "data": [
+      {
+        "text": "🚓",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "657b91a6-a70d-4890-bcbb-1a0d7f3e9c3b",
+    "data": [
+      {
+        "text": "🚑",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "643e88c7-e75c-4c24-82e4-2bde061b6d01",
+    "data": [
+      {
+        "text": "🚒",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8b6bec1-d677-49ba-b997-b32f87cce9c4",
+    "data": [
+      {
+        "text": "🚐",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "384bbad2-4068-4c94-a117-5cbbf2d0a27f",
+    "data": [
+      {
+        "text": "🚚",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2899039c-0a29-4197-9b8f-126213e7a8c0",
+    "data": [
+      {
+        "text": "🚛",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21bbcaee-e1d8-467a-bc16-8b925c1f72a4",
+    "data": [
+      {
+        "text": "🚜",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ec463c8-40db-4b78-81de-e1f634560ca5",
+    "data": [
+      {
+        "text": "🏍",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f2e3b5b-4eae-4afa-b252-6912a77cde92",
+    "data": [
+      {
+        "text": "🚲",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82ac6da2-3f1c-4d1b-a2a5-944d089e083f",
+    "data": [
+      {
+        "text": "🚨",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65a25ff5-0440-4c32-94ae-da7aef6cb4c7",
+    "data": [
+      {
+        "text": "🚔",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21a3cae8-46a5-4163-9701-6ceade80edbc",
+    "data": [
+      {
+        "text": "🚍",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "863de3ad-d639-411b-89d1-6e6a868796dd",
+    "data": [
+      {
+        "text": "🚘",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23586d43-c66b-4ea0-83e9-9d798c926cb9",
+    "data": [
+      {
+        "text": "🚖",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83640251-3eb3-405f-980d-8ac79192bfd8",
+    "data": [
+      {
+        "text": "🚡",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5d418c0-aff1-41d2-896c-27cf29f2a4a6",
+    "data": [
+      {
+        "text": "🚠",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dee16d08-2020-4cd8-9164-5289cf059bb8",
+    "data": [
+      {
+        "text": "🚟",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cadbf676-0183-4ac1-bf0a-c8d222d44bf1",
+    "data": [
+      {
+        "text": "🚃",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e28dd601-9cfc-4ba1-b50f-67f7572754cd",
+    "data": [
+      {
+        "text": "🚋",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2794d3fd-117a-4554-82a8-5540f7dabad4",
+    "data": [
+      {
+        "text": "🚝",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c942262-ee85-4f93-82cc-9d7ec10b5a75",
+    "data": [
+      {
+        "text": "🚄",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8abb259e-e2fe-4317-a0ae-ae686af55b1f",
+    "data": [
+      {
+        "text": "🚅",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b7d1c99-ba2d-4242-bd57-26cddbe0302f",
+    "data": [
+      {
+        "text": "🚈",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f065a9a-d16a-4bd9-8ea6-40cc471040f6",
+    "data": [
+      {
+        "text": "🚞",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87214152-d307-436b-ac88-41edae0a401f",
+    "data": [
+      {
+        "text": "🚂",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc0b10f4-953c-4311-81c1-579e30793b02",
+    "data": [
+      {
+        "text": "🚆",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8b7a9ae-2950-4c7d-8a4a-0117c15f7242",
+    "data": [
+      {
+        "text": "🚇",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bde2b543-4263-4b01-9b77-d82626f497c3",
+    "data": [
+      {
+        "text": "🚊",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7e2e51b-4512-477d-9fb0-02daddd1faea",
+    "data": [
+      {
+        "text": "🚉",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d36fc591-86fd-48ec-b5b5-336b891f4a09",
+    "data": [
+      {
+        "text": "🚁",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "716bbd11-8f94-4710-a81b-52becc8690ab",
+    "data": [
+      {
+        "text": "🛩",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37aad511-9a71-49d5-9007-27c99a0b585b",
+    "data": [
+      {
+        "text": "✈",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65a47eb3-75c8-40a5-b8ac-c46bb6453232",
+    "data": [
+      {
+        "text": "🛫",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc03b8a1-909a-4a5e-b697-4229c457d632",
+    "data": [
+      {
+        "text": "🛬",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31fb8568-7fa9-4e7c-8ab9-f29a54931a32",
+    "data": [
+      {
+        "text": "⛵",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c96660f5-582e-4d47-ab67-2b1e271ecfb5",
+    "data": [
+      {
+        "text": "🛥",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1e3bafd-cbeb-48f0-9446-3b8bdccd732f",
+    "data": [
+      {
+        "text": "🚤",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "603fb6bb-a62a-45d0-93d1-8b28123f98c8",
+    "data": [
+      {
+        "text": "⛴",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e98ff88e-eead-4577-b852-61d7fa34ee4b",
+    "data": [
+      {
+        "text": "🛳",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9df740cb-8534-49f6-99a0-dd4972747578",
+    "data": [
+      {
+        "text": "🚀",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b37bbc7-7384-4d1f-9653-afb6de676167",
+    "data": [
+      {
+        "text": "🛰",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82acfa6b-9c1f-4ce4-9cb9-70279d5005ca",
+    "data": [
+      {
+        "text": "💺",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf512d0f-90f5-4582-91a9-4f09b24e5cef",
+    "data": [
+      {
+        "text": "⚓",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e37d73be-feb1-40ae-89e1-966989ed69d1",
+    "data": [
+      {
+        "text": "🚧",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bdb96b9-86ce-42ae-8005-f6f1ef81f9dc",
+    "data": [
+      {
+        "text": "⛽",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "832bf3ac-c745-4fd4-9b0c-d3fe00077812",
+    "data": [
+      {
+        "text": "🚏",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef843733-d881-4b71-9134-df4de0b03b16",
+    "data": [
+      {
+        "text": "🚦",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1dcd963-5883-432a-91c4-656b8e8b10f6",
+    "data": [
+      {
+        "text": "🚥",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06dd823d-496e-4d89-82e4-a24b68835e2d",
+    "data": [
+      {
+        "text": "🏁",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d6d19d9-a144-429f-a18b-bf030e473d16",
+    "data": [
+      {
+        "text": "🚢",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66732d59-059a-4f14-aa8e-467654f6e9e8",
+    "data": [
+      {
+        "text": "🎡",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5d293e3-d9c7-41b7-934a-ec3cf7328a37",
+    "data": [
+      {
+        "text": "🎢",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "193e2537-c712-471a-93a7-c9919b9b7691",
+    "data": [
+      {
+        "text": "🎠",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50e5f592-07b8-43af-8f67-6c2da0b8bc28",
+    "data": [
+      {
+        "text": "🏗",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a5de65a-e0c0-4299-9357-7a71aea43789",
+    "data": [
+      {
+        "text": "🌁",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7006ddf8-f338-4447-898b-fb74d18b81e7",
+    "data": [
+      {
+        "text": "🗼",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25ec1a7f-b60d-4855-ab21-50cd4bd99342",
+    "data": [
+      {
+        "text": "🏭",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3fb07ab9-e7a3-403c-830e-2bf00abfb0d6",
+    "data": [
+      {
+        "text": "⛲",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e34479c-af9c-4039-a947-d9dddadb0beb",
+    "data": [
+      {
+        "text": "🎑",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "976cb853-41e4-403f-b6c6-8c330b747b82",
+    "data": [
+      {
+        "text": "⛰",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d06b6c97-afbb-4657-9e0a-5537d18ea5b2",
+    "data": [
+      {
+        "text": "🏔",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bec7853-4f1e-4c5e-a4ea-fecce361c934",
+    "data": [
+      {
+        "text": "🗻",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9883c9e-d307-4f52-a506-f0a1c4309085",
+    "data": [
+      {
+        "text": "🌋",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07e56331-f6fd-42f1-9efb-2d2fba5bf357",
+    "data": [
+      {
+        "text": "🗾",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53c11e59-8739-4983-bf0f-b83d468e9fca",
+    "data": [
+      {
+        "text": "🏕",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9961793-8e65-416a-b9d3-e673c496bfe5",
+    "data": [
+      {
+        "text": "⛺",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d55491ee-b122-4721-826c-bb3d63fcd638",
+    "data": [
+      {
+        "text": "🏞",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07e8fa3a-a573-4884-8e2b-353503a49219",
+    "data": [
+      {
+        "text": "🛣",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fa0b02d-1d18-4370-9bee-ced99ca5f79a",
+    "data": [
+      {
+        "text": "🛤",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29a2a2cc-bf12-4871-9b8b-b1ad06c2f67a",
+    "data": [
+      {
+        "text": "🌅",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4a86581-413f-4ee1-8d43-6f4fca2bd831",
+    "data": [
+      {
+        "text": "🌄",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51b5163a-6f93-4aaa-931b-3942da6f4788",
+    "data": [
+      {
+        "text": "🏜",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d875e3d-19fd-4335-a71a-82ef61cebbb5",
+    "data": [
+      {
+        "text": "🏖",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b70b7f2b-b1bd-480b-9ce5-b615a7741a13",
+    "data": [
+      {
+        "text": "🏝",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b740f27-73b1-4a81-b6f8-8870e69fd00c",
+    "data": [
+      {
+        "text": "🌇",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efee4c33-a3c1-44dc-8ff7-caaacc09fb0d",
+    "data": [
+      {
+        "text": "🌆",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86536c17-158d-491c-8e57-c8775e2ef58e",
+    "data": [
+      {
+        "text": "🏙",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ed4121b-af63-4332-a59f-7bb33778592f",
+    "data": [
+      {
+        "text": "🌃",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66b77913-f580-4058-aa8e-27fc76f006a7",
+    "data": [
+      {
+        "text": "🌉",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18f6eb24-a5da-4578-a034-a46ec50bbc83",
+    "data": [
+      {
+        "text": "🌌",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8672456a-2cee-48f6-b487-389090f521bf",
+    "data": [
+      {
+        "text": "🌠",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbd63dbb-5281-4d3e-9ace-5675782cb227",
+    "data": [
+      {
+        "text": "🎇",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "624c88f0-77d9-4e63-9e6a-11322620f816",
+    "data": [
+      {
+        "text": "🎆",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "002739a8-219d-4fa8-89f0-914953319f32",
+    "data": [
+      {
+        "text": "🌈",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "861b5154-1a1a-4717-8504-3152365c04c1",
+    "data": [
+      {
+        "text": "🏘",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a844700-83dc-4818-ba38-2948328add12",
+    "data": [
+      {
+        "text": "🏰",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92ddd604-0f80-41e9-b443-2fb68f542763",
+    "data": [
+      {
+        "text": "🏯",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "930e62cc-fff7-4a61-bd5b-7cbe3f78d598",
+    "data": [
+      {
+        "text": "🏟",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "262a25de-a7a5-478b-967c-dae61a234c4a",
+    "data": [
+      {
+        "text": "🗽",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e8cd5ed-b565-452f-8d74-d5b0311dd47a",
+    "data": [
+      {
+        "text": "🏠",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25d44344-689b-49a8-a9ab-ddfd852638c7",
+    "data": [
+      {
+        "text": "🏡",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "066a8a41-df0f-4b65-b8b7-672edd23ddf6",
+    "data": [
+      {
+        "text": "🏚",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5571fd67-fa88-4129-9830-80027f7bcd8f",
+    "data": [
+      {
+        "text": "🏢",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67c7de82-5e66-40d4-b8f5-24155bbf5648",
+    "data": [
+      {
+        "text": "🏬",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50e45ec7-8e74-45ea-ab01-36870932afe9",
+    "data": [
+      {
+        "text": "🏣",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f916a00f-df7e-431c-a297-f99ddfb89bb9",
+    "data": [
+      {
+        "text": "🏤",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f659ddc-a045-4c87-aaec-de78159b3f8b",
+    "data": [
+      {
+        "text": "🏥",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccb4ccd5-015a-4dba-b95c-cc00545222c5",
+    "data": [
+      {
+        "text": "🏦",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c162640-a660-4f73-98d7-924a296dcc38",
+    "data": [
+      {
+        "text": "🏨",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bd25af3-6ed3-4cdd-a368-848a5b619999",
+    "data": [
+      {
+        "text": "🏪",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9472ab7a-cc56-4076-8f8c-4e014bf9fc98",
+    "data": [
+      {
+        "text": "🏫",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "027010a9-7b58-4f83-9bbe-f77963a17434",
+    "data": [
+      {
+        "text": "🏩",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0adc664d-a8bf-441e-89e8-e2329925f5c6",
+    "data": [
+      {
+        "text": "💒",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae7d0b56-e30f-4c0c-bd09-35f7416e0601",
+    "data": [
+      {
+        "text": "🏛",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4602764d-e1ca-4415-81d1-46d3a3e787cb",
+    "data": [
+      {
+        "text": "⛪",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1af3c9e5-9326-4e8a-89ed-f7350502c7ef",
+    "data": [
+      {
+        "text": "🕌",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07a34138-c825-4b6b-beb4-419f49c5702d",
+    "data": [
+      {
+        "text": "🕍",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d35a9ae1-9a88-4bc2-add9-2d72875cb163",
+    "data": [
+      {
+        "text": "🕋",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f4cda40-3b45-42d6-9177-932db2dc800c",
+    "data": [
+      {
+        "text": "⛩",
+        "alias": "Travel_Places_Emoji_Entity",
+        "meta": "@Travel_Places_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

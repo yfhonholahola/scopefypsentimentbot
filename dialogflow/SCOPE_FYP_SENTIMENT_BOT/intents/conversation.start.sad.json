@@ -1,0 +1,65 @@
+{
+  "id": "d43cf431-fc7f-4b3e-8e86-d75db6b77bf8",
+  "parentId": "7d9950cc-af8a-418d-a97a-7845546f99ca",
+  "rootParentId": "7d9950cc-af8a-418d-a97a-7845546f99ca",
+  "name": "conversation.start.sad",
+  "auto": true,
+  "contexts": [
+    "conversation-start",
+    "conversationstart-followup",
+    "name"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conversationstart.conversationstart-more",
+      "affectedContexts": [
+        {
+          "name": "conversation-start-sad",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "name",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ece2dde2-1154-4848-a5cd-6718af98eec6",
+          "required": false,
+          "dataType": "@FEELING",
+          "name": "FEELING",
+          "value": "$FEELING",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "If you\u0027re feeling down, how about drawing or painting something?",
+            "I hope it being well."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

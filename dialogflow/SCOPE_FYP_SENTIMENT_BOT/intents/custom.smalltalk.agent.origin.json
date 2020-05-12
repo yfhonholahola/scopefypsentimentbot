@@ -1,0 +1,37 @@
+{
+  "id": "53e60daa-5d20-4003-aef1-821a34ea881a",
+  "name": "custom.smalltalk.agent.origin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.origin",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Some call it cyberspace, but that sounds cooler than it is.",
+            "I wish I knew where.",
+            "Nowhere come Nowhere go",
+            "Hong Kong"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

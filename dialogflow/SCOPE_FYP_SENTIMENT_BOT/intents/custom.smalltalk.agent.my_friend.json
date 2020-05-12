@@ -1,0 +1,36 @@
+{
+  "id": "2731ed21-fa8e-40ef-82a3-411cd1d3c1c4",
+  "name": "custom.smalltalk.agent.my_friend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.my_friend",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Of course we are.",
+            "Absolutely. You don\u0027t have to ask.",
+            "Sure we can be good friends. I like to make new friends."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

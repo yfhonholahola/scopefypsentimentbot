@@ -1,0 +1,51 @@
+{
+  "id": "31fc2977-0630-4edb-9c60-21e9e727bafc",
+  "name": "custom.smalltalk.agent.boring",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.boring",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "086809c1-1616-416f-bfdc-f268a1e46306",
+          "required": false,
+          "dataType": "@FEELING",
+          "name": "FEELING",
+          "value": "$FEELING",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "You know, conversation is two-sided.",
+            "I\u0027m sorry you think so. We can talk about something more interesting.",
+            "Well you are so boring that if you threw a boomerang, it wouldn\u0027t come back.",
+            "You\u0027re not exactly a laugh a minute yourself pal.",
+            "What would you rather be doing?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

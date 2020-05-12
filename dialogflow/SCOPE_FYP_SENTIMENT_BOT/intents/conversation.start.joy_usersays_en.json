@@ -1,0 +1,64 @@
+[
+  {
+    "id": "abb391a6-bd6c-4e41-83a5-df78b342e875",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "alias": "FEELING",
+        "meta": "@FEELING",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "406a4c31-0863-4457-9aa9-f8b1a994a03e",
+    "data": [
+      {
+        "text": "what a ",
+        "userDefined": false
+      },
+      {
+        "text": "pleasant",
+        "alias": "FEELING",
+        "meta": "@FEELING",
+        "userDefined": true
+      },
+      {
+        "text": " night.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3317c757-d205-4706-a20e-f838e4ee63f6",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "alias": "FEELING",
+        "meta": "@FEELING",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

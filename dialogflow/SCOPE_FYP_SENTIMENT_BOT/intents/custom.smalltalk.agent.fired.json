@@ -1,0 +1,37 @@
+{
+  "id": "cbcb70e0-d800-4635-93ad-ca9a03847e09",
+  "name": "custom.smalltalk.agent.fired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.fired",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Oh no! My best work is yet to come.",
+            "Oh, don\u0027t give up on me!",
+            "Give me one more time",
+            "I don\u0027t want to be fired. T_T"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

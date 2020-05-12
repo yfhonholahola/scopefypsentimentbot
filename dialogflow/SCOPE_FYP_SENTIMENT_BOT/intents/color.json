@@ -1,0 +1,53 @@
+{
+  "id": "91b06c36-ed9a-4bf0-87b9-af34af479a40",
+  "name": "color",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.color",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1702502c-659e-4ecd-b9d5-926864cb292e",
+          "required": false,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I love blue",
+            "I like any color that the world offers.",
+            "I\u0027m a AI so i can\u0027t see color but be free to imagine me liking any color.",
+            "As a bot I can\u0027t see color but from how i look it looks like I l love blue.",
+            "I prefer any color that makes you happy.",
+            "My favourite colour is blue",
+            "Yup. I really like 🔵"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

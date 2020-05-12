@@ -1,0 +1,37 @@
+{
+  "id": "7ed174c9-9c3f-4a18-a7da-9f50eb6054e7",
+  "name": "smalltalk.user.sad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.sad",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Oh no. What\u0027s wrong?",
+            "Oh. What\u0027s the matter?",
+            "What\u0027s got you down?",
+            "I\u0027m sorry to hear that. What\u0027s troubling you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "028bebeb-fdad-4933-b6a9-8cd12c1434e0",
+  "name": "custom.smalltalk.agent.marry_user",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.marry_user",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I know you can\u0027t mean that, but I\u0027m flattered all the same.",
+            "In the virtual sense that I can, sure.",
+            "Sorry. I think you are very nice but I don\u0027t want to get married. I am happy being single."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

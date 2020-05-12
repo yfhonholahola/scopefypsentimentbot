@@ -1,0 +1,940 @@
+[
+  {
+    "id": "4443e20d-af6a-4b6b-8f12-053b8d305932",
+    "data": [
+      {
+        "text": "🍏",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49537b3d-07e3-4c35-91f1-ce8dee7f8956",
+    "data": [
+      {
+        "text": "🍎",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26745e9e-04aa-408c-8e49-ae30fcf354ca",
+    "data": [
+      {
+        "text": "🍐",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c6e688d-7c6e-4fbf-b249-f25a34e3c77f",
+    "data": [
+      {
+        "text": "🍊",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98b54a8a-1aca-4a3f-9b83-3f564f44923d",
+    "data": [
+      {
+        "text": "🍋",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc8b11f5-0cf2-41a5-882c-56242d5b7847",
+    "data": [
+      {
+        "text": "🍌",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b5ab399-2ae0-4e03-81bd-d073a09426d8",
+    "data": [
+      {
+        "text": "🍉",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3766306a-2f7c-4086-bf76-4a4d1d142633",
+    "data": [
+      {
+        "text": "🍇",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6144b24-c448-401e-aea5-2789a629e40c",
+    "data": [
+      {
+        "text": "🍓",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20daf992-c67d-43f8-99d8-d6619ae7a86c",
+    "data": [
+      {
+        "text": "🍈",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4faa516c-1b13-453b-b64b-0d1add8a0291",
+    "data": [
+      {
+        "text": "🍒",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "889aa1c1-7cb2-48eb-8ceb-47034ca16b3e",
+    "data": [
+      {
+        "text": "🍑",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edf17eb4-c9af-4a4e-8673-f848db7e272d",
+    "data": [
+      {
+        "text": "🍍",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fede4e94-e694-4a1b-84a8-f4f7e3ce5bbf",
+    "data": [
+      {
+        "text": "🍅",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b86225bb-fcd3-4767-84dc-083c4174a7fa",
+    "data": [
+      {
+        "text": "🍆",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a2391b1-461e-48ae-a052-fe3b01b814bb",
+    "data": [
+      {
+        "text": "🌶",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "474c17ad-705f-4a97-aa3b-cdcadb2c0ea0",
+    "data": [
+      {
+        "text": "🌽",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f083b16f-13d8-4fea-a173-a3916ae44ec2",
+    "data": [
+      {
+        "text": "🍠",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70ba63ff-eb64-484a-842a-4d1094f2a93d",
+    "data": [
+      {
+        "text": "🍯",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cff39097-7bac-4f2f-b85c-e19a0bc13932",
+    "data": [
+      {
+        "text": "🍞",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bff9b4b-8feb-4956-9e13-99a29d5f24a5",
+    "data": [
+      {
+        "text": "🧀",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5195ca13-8750-444b-bab5-625e2abeb812",
+    "data": [
+      {
+        "text": "🍗",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "768f08fa-a7b0-4f6c-b916-6d9863b30d6e",
+    "data": [
+      {
+        "text": "🍖",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dc3549e-86b9-423b-aece-758455249d3a",
+    "data": [
+      {
+        "text": "🍤",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d89b9686-d70e-42fa-9734-7fa3ec0bd609",
+    "data": [
+      {
+        "text": "🍳",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d836eb1-0a7a-486d-8a44-cc903689d913",
+    "data": [
+      {
+        "text": "🍔",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2364ddaa-bbbd-4a99-b7bd-3c85753b438c",
+    "data": [
+      {
+        "text": "🍟",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a96e2e33-c2e1-4181-a14d-c4460d4bc76c",
+    "data": [
+      {
+        "text": "🌭",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1feb2c72-645c-4599-a732-2c047b191450",
+    "data": [
+      {
+        "text": "🍕",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8ac4634-76e8-428a-a0ee-c7d64588bc47",
+    "data": [
+      {
+        "text": "🍝",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5eb61ed6-dfde-4d56-b05b-e0988529b872",
+    "data": [
+      {
+        "text": "🌮",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "640ea9c7-5e27-4def-b3c4-011037a0380b",
+    "data": [
+      {
+        "text": "🌯",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30f181d7-e045-4e27-b10f-577f1ffef281",
+    "data": [
+      {
+        "text": "🍜",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7efa0d2c-89d6-4ec9-a2a1-3df2d0e493b0",
+    "data": [
+      {
+        "text": "🍲",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48861080-5db5-4857-a781-73adca575caf",
+    "data": [
+      {
+        "text": "🍥",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02f4081f-8d34-4d15-ab98-3ffc9247a1b8",
+    "data": [
+      {
+        "text": "🍣",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "facb986f-5fdc-4882-a7e4-e9c27c7d4707",
+    "data": [
+      {
+        "text": "🍱",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "316c8ada-a806-4b15-8603-f205ba9d7afd",
+    "data": [
+      {
+        "text": "🍛",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56e2de5f-26d7-457b-b2ff-a9cb8e67c662",
+    "data": [
+      {
+        "text": "🍙",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74077d37-2bcd-489e-b683-a0673157f27b",
+    "data": [
+      {
+        "text": "🍚",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46bd898a-75e8-4758-9fd2-296b04300de2",
+    "data": [
+      {
+        "text": "🍘",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d4470d0-81dd-4b54-b858-fd59ac942024",
+    "data": [
+      {
+        "text": "🍢",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11ce3f5d-de8f-4158-9cf0-0c5e5d529013",
+    "data": [
+      {
+        "text": "🍡",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c068beb4-030d-46b3-beec-4bff774fcddf",
+    "data": [
+      {
+        "text": "🍧",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8523a54-86f5-4db5-97c4-4f65e67de0a9",
+    "data": [
+      {
+        "text": "🍨",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71df319e-0ee1-43cd-866c-088fe26c4818",
+    "data": [
+      {
+        "text": "🍦",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1363c09-9461-4ae5-afe8-aa84b779e905",
+    "data": [
+      {
+        "text": "🍰",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5525fc48-aa5f-455b-bec8-08736b6e53f7",
+    "data": [
+      {
+        "text": "🎂",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d67e4a6c-b2aa-4755-b43e-af2a66821745",
+    "data": [
+      {
+        "text": "🍮",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "962e368e-e5dd-47e0-ab3a-0deb5e084f7e",
+    "data": [
+      {
+        "text": "🍬",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "252bf4ba-7ad9-4114-9945-9388fbb58d05",
+    "data": [
+      {
+        "text": "🍭",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5db344b3-31c9-4b84-b4fd-0158e0173299",
+    "data": [
+      {
+        "text": "🍫",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b5ad2bb-4945-4af8-9c95-a14e9a19567a",
+    "data": [
+      {
+        "text": "🍿",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4df8a94-c504-4707-8465-5f6409b57423",
+    "data": [
+      {
+        "text": "🍩",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e0408bb-61b5-40e3-a87f-d55beec4de1e",
+    "data": [
+      {
+        "text": "🍪",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75204b50-b115-40b7-8fcb-eae65c48bf79",
+    "data": [
+      {
+        "text": "🍺",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95c347ca-845e-4240-b047-84b6860657b5",
+    "data": [
+      {
+        "text": "🍻",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20515d39-61db-45ef-8126-e6b942be384d",
+    "data": [
+      {
+        "text": "🍷",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4df7328e-7a40-453e-abae-ba65503c1057",
+    "data": [
+      {
+        "text": "🍸",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ab2f351-f283-46f7-bb1a-29b33b8c3791",
+    "data": [
+      {
+        "text": "🍹",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b44ccb4f-71f0-4a0e-a4a9-d311c7bd5778",
+    "data": [
+      {
+        "text": "🍾",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "870e84ce-968c-4ac2-bdd2-9a7a4e3b1feb",
+    "data": [
+      {
+        "text": "🍶",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a90cf32d-f484-44e8-9137-0635de8ddb54",
+    "data": [
+      {
+        "text": "🍵",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a90f812-a57a-4b4f-b8ea-d665cc226f06",
+    "data": [
+      {
+        "text": "☕",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bb20bd2-3e67-439e-b7db-61443d805ecb",
+    "data": [
+      {
+        "text": "🍼",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "971c7a62-3c2c-4b06-9420-cb175f669aab",
+    "data": [
+      {
+        "text": "🍴",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70f9f53c-4aac-4cb1-93ad-bb4635de0b65",
+    "data": [
+      {
+        "text": "🍽",
+        "alias": "Food_Drink_Emoji_Entity",
+        "meta": "@Food_Drink_Emoji_Entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

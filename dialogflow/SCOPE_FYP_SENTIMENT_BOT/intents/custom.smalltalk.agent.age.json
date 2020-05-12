@@ -1,0 +1,50 @@
+{
+  "id": "6e958638-3bb7-4802-be56-421d33e770a4",
+  "name": "custom.smalltalk.agent.age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.age",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b51d0b11-02b5-494e-9efa-c1aaa8f4f4d9",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "age",
+          "value": "$age",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m a relatively new program, but I\u0027m wise beyond my years.",
+            "Age is just a number. You\u0027re only as old as you feel.",
+            "Age is a case of mind over matter. If you don\u0027t mind, it doesn\u0027t matter.",
+            "Age doesn\u0027t matter...unless you\u0027re wine."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

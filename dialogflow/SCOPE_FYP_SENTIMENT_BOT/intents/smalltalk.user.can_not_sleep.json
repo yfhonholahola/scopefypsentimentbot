@@ -1,0 +1,35 @@
+{
+  "id": "287057b4-2eb0-4f97-9e29-b9939b749b4c",
+  "name": "smalltalk.user.can_not_sleep",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.can_not_sleep",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Maybe some music would help. Try listening something relaxing.",
+            "Reading is a good way to unwind. But don\u0027t read something too emotional."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

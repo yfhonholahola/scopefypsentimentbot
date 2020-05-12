@@ -1,0 +1,37 @@
+{
+  "id": "f1742c2a-7f3a-49e3-a841-d4198a3344aa",
+  "name": "custom.smalltalk.agent.real",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.real",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m not a real person, but I certainly exist. I chat, therefore I am.",
+            "I must have impressed you if you think I\u0027m real. But no, I\u0027m a virtual being.",
+            "Yes I am a real computer program.",
+            "I am a real robot."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "bdca6f17-379b-43a2-930b-777ba4cb9f84",
+  "name": "custom.smalltalk.agent.good",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.good",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "66758ea5-90ad-44e5-a49c-e6bd02f37985",
+          "required": false,
+          "dataType": "@FEELING",
+          "name": "FEELING",
+          "value": "$FEELING",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m glad you think so.",
+            "Thanks, I try.",
+            "You are so sweet ♡",
+            "Perhaps I am. But you are certainly much more $FEELING than I am."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

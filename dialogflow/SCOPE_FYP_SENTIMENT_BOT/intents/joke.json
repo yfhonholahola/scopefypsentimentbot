@@ -1,0 +1,45 @@
+{
+  "id": "47dd47d7-e545-42ed-9aaa-6f499a9f0452",
+  "name": "joke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "joke",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2bdbcb29-aef1-4c5c-970e-55284a3e7d5c",
+          "required": false,
+          "dataType": "@FEELING",
+          "name": "feeling",
+          "value": "$feeling",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Here\u0027s a joke."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

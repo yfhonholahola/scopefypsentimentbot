@@ -1,0 +1,57 @@
+{
+  "id": "5f8e9a20-2344-480d-9495-fbede3ab3ff4",
+  "name": "bad_word_handling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bad_word_handling",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9cc74aa7-4f37-461d-8386-758998de56fc",
+          "required": false,
+          "dataType": "@BADWORD",
+          "name": "BADWORD",
+          "value": "$BADWORD",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Hey, don\u0027t say that. 😡",
+            "I like people being polite. 😡",
+            "No foul language 😡",
+            "If you say the bad word again, I won\u0027t talk to you. 😡",
+            "Ban your word😡",
+            "Be care not speaking of hate and offensive speech  😡",
+            "No hate speech😡",
+            "If you talk again, I will close our conversation 😡",
+            "You better watch your language.",
+            "You better change that tone ;)",
+            "Please watch the language."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

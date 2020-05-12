@@ -1,0 +1,35 @@
+{
+  "id": "befb7ce4-10ed-4f6a-9236-672e9d7e2fac",
+  "name": "smalltalk.user.waits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.waits",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I appreciate your patience. Hopefully I\u0027ll have what you need soon.",
+            "Thanks for being so patient. Sometimes these things take a little time."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

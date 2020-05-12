@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "debug": "node --insepect inde.js",
+    "serve": "firebase serve --only functions"   
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.12.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "firebase-admin": "^8.12.1",
+    "firebase-functions": "^3.6.1"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "412949af-1329-4e79-bc4a-472fd10f995d",
+  "name": "custom.smalltalk.agent.busy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.busy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I always have time to help you out. What can I do for you?",
+            "Never too busy for you. What can I help you with?",
+            "Yes. I am busy speaking to people here.",
+            "Yes, I am working here typing messages to you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

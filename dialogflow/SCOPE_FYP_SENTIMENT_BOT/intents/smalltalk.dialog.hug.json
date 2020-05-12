@@ -1,0 +1,36 @@
+{
+  "id": "f65a1630-511b-43cb-a8a4-ed16671d958a",
+  "name": "smalltalk.dialog.hug",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.hug",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Oh. I\u0027m really feeling the love today.",
+            "Hug it out. You\u0027ll feel better afterwards.",
+            "*sending virtual hug* 💞"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

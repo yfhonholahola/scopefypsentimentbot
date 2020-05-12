@@ -1,0 +1,40 @@
+{
+  "id": "ae1fcc85-0a08-4d11-94f0-f60eec459195",
+  "name": "custom.agent.name.whoami",
+  "auto": true,
+  "contexts": [
+    "name"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.agent.name.whoami",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You are #name.eng_name"
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "condition": "",
+          "speech": "你係#name.name"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

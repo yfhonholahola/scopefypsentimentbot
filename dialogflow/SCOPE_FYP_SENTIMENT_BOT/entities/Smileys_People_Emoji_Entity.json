@@ -1,0 +1,9 @@
+{
+  "id": "c29a3dc6-ff0e-413f-bb37-05e2780fbec9",
+  "name": "Smileys_People_Emoji_Entity",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

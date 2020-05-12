@@ -1,0 +1,9 @@
+{
+  "id": "5d299815-6a78-4285-9249-86256969bb58",
+  "name": "Animals_Nature_Emoji_Entity",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

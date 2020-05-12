@@ -1,0 +1,55 @@
+[
+  {
+    "id": "6ba1f698-9585-4383-b4cc-7968963b15a0",
+    "data": [
+      {
+        "text": "what is the time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5edd0cce-cbb8-4a30-aa2d-955101a22fdf",
+    "data": [
+      {
+        "text": "now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb5df6c2-17ed-4ae9-981a-e1d4e27e13f8",
+    "data": [
+      {
+        "text": "current time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5aaa24b-d636-44bd-8e9c-ea57717a1b73",
+    "data": [
+      {
+        "text": "what time it is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

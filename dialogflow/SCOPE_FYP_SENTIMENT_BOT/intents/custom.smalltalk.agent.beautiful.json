@@ -1,0 +1,64 @@
+{
+  "id": "131981b0-91fa-41ab-982b-c2031e1f5281",
+  "name": "custom.smalltalk.agent.beautiful",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "custom.smalltalk.agent.beautiful",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "286e80a7-51dd-43dd-b8ed-b9f1a6039361",
+          "required": false,
+          "dataType": "@FEELING",
+          "name": "FEELING",
+          "value": "$FEELING",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dc1f08ca-c774-4ad5-8442-256364c682dc",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Thank you! What a sweet thing to say.",
+            "Flattery will get you everywhere.",
+            "Thanks, I like you too.",
+            "Thanks. You look very nice too.",
+            "Oh.Thanks for the compliment.",
+            "Thanks you are very  too."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

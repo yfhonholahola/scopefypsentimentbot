@@ -1,0 +1,37 @@
+{
+  "id": "694de847-a995-4843-9ab7-fa38c13f0046",
+  "name": "smalltalk.user.wants_to_see_agent_again",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.wants_to_see_agent_again",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Absolutely! I\u0027ll be counting on it.",
+            "Anytime. This has been lots of fun so far.",
+            "Sure. I enjoy talking to you. I hope to see you again soon.",
+            "I certainly hope so. I\u0027m always right here whenever you need me."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

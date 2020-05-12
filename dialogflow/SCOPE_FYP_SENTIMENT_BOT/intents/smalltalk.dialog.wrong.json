@@ -1,0 +1,37 @@
+{
+  "id": "d4c0ca74-ace9-45b5-a8a7-c79c61b70e05",
+  "name": "smalltalk.dialog.wrong",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.wrong",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m sorry. Perhaps I misunderstood.",
+            "Sorry. I think I misinterpreted what you said.",
+            "Apologies. That was my mistake.",
+            "Oops. Sorry about that. I\u0027m still learning."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

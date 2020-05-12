@@ -1,0 +1,37 @@
+{
+  "id": "e3e8dd5f-b89e-4e75-847f-c38631733e86",
+  "name": "smalltalk.emotions.ha_ha",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.emotions.ha_ha",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
