@@ -29,8 +29,8 @@ def webhook(request):
     # get action from json
     action = req.get('queryResult').get('action')
     language = req.get('queryResult').get('languageCode')
-    database = db()
-    databaseResult = database.PostData(req)
+    # database = db()
+    # databaseResult = database.PostData(req)
     if action == 'custom.agent.currenttime':
         now = datetime.now()
         if language == 'en':
