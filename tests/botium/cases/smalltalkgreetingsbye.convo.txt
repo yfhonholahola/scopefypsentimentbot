@@ -1,0 +1,7 @@
+smalltalk.greetings.bye
+
+#me
+smalltalkgreetingsbye
+
+#bot
+INTENT smalltalk.greetings.bye

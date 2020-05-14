@@ -1,0 +1,5 @@
+give me picture
+
+#bot
+Here is a picture
+MEDIA http://www.botium.at/img/logo.png

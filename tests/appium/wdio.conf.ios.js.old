@@ -1,0 +1,23 @@
+/**
+ * WebDriver Configuration for Local Testing (iOS Simulator)
+ */
+const path = require('path');
+const os = require('os');
+const glob = require('glob');
+const { config } = require('./wdio.conf.js');
+//const wd = require('wd');
+
+config.capabilities = [{
+  maxInstances: 1,
+  platformName: 'iOS',
+  platformVersion: '11.0', // Change to the version of your simulator
+  deviceName: 'iPhone X', // Change to the device name of your simulator
+  // Change the path below to find the .app or .ipa file
+  //app: glob.sync(path.resolve(os.homedir(), 'Library/Developer/Xcode/DerivedData/scopefypsentimentbot-ghwwtsnkbrlbqdblfchhcjaksxjo/Build/Products/Release-iphonesimulator/scopefypsentimentbot.app')).pop(),
+  app: '/Users/alfredhon/Library/Developer/Xcode/DerivedData/scopefypsentimentbot-ghwwtsnkbrlbqdblfchhcjaksxjo/Build/Products/Release-iphonesimulator/scopefypsentimentbot.app',
+  automationName: 'XCUITest',
+}];
+
+//const driver = wd.promiseChainRemote('localhost', 4723);
+
+exports.config = config;

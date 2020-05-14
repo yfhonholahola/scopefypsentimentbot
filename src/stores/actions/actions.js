@@ -10,6 +10,7 @@ const { Types, Creators } = createActions({
     logoutFailure: ['error'],
 
     setDialogflow: ['language'],
+    setDialogflowSuccess: null,
     sendRequest: ['messages'],
     sendSuccess: ['messages'],
     sendFailure: ['error'],

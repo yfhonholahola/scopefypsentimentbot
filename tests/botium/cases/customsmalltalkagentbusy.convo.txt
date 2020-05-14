@@ -1,0 +1,7 @@
+custom.smalltalk.agent.busy
+
+#me
+customsmalltalkagentbusy
+
+#bot
+INTENT custom.smalltalk.agent.busy

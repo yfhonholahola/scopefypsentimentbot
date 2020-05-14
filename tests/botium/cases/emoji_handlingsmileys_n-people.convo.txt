@@ -1,0 +1,7 @@
+emoji_handling.smileys_n-people
+
+#me
+emoji_handlingsmileys_n-people
+
+#bot
+INTENT emoji_handling.smileys_n-people

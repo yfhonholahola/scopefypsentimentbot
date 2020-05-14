@@ -1,0 +1,7 @@
+smalltalk.user.good
+
+#me
+smalltalkusergood
+
+#bot
+INTENT smalltalk.user.good

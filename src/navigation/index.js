@@ -84,7 +84,7 @@ export default class Navigation extends React.Component {
     return (
       <NavigationContainer ref={navigatorRef => {NavigationServices.setTopLevelNavigator(navigatorRef);}}>
         <Stack.Navigator
-          initialRouteName="Chatbot"
+          initialRouteName="Login"
           screenOptions={{
             headerStyle: { backgroundColor: "#B0E0E6" },
             headerTintColor: "white",

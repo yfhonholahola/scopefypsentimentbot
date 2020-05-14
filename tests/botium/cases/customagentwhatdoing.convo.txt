@@ -1,0 +1,7 @@
+custom.agent.whatdoing
+
+#me
+customagentwhatdoing
+
+#bot
+INTENT custom.agent.whatdoing

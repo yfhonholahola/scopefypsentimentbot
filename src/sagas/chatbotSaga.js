@@ -5,7 +5,19 @@ import { BOT_USER } from "constants/chatbot"
 import { GiftedChat } from 'react-native-gifted-chat'
 
 export function* setDialogflow(payload) {
-  yield call(chatbotServices.setDialogflow, payload.language);
+  const getChatbot = state => state.chatbot
+  const chatbotState = yield select(getChatbot);  
+  yield call(chatbotServices.setDialogflow, payload.language)
+
+  if (!chatbotState.mounted) {
+    const result = yield call(chatbotServices.sendEvent, { event: 'Welcome', parameter: {}});
+    console.log('result:', result);
+    if (!result.error) {
+      yield put(Actions.botRespond({...result.result}))
+    }
+  }
+
+  yield put(Actions.setDialogflowSuccess())
 }
 
 export function* botRespond(payload) {

@@ -1,0 +1,7 @@
+custom.smalltalk.agent.beautiful
+
+#me
+customsmalltalkagentbeautiful
+
+#bot
+INTENT custom.smalltalk.agent.beautiful

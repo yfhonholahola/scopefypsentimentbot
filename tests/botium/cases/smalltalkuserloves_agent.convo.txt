@@ -1,0 +1,7 @@
+smalltalk.user.loves_agent
+
+#me
+smalltalkuserloves_agent
+
+#bot
+INTENT smalltalk.user.loves_agent

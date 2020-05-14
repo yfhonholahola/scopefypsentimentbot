@@ -1,0 +1,7 @@
+custom.smalltalk.agent.birth_date
+
+#me
+customsmalltalkagentbirth_date
+
+#bot
+INTENT custom.smalltalk.agent.birth_date

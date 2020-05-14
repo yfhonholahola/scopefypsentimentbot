@@ -1,0 +1,7 @@
+custom.smalltalk.agent.fired
+
+#me
+customsmalltalkagentfired
+
+#bot
+INTENT custom.smalltalk.agent.fired

@@ -1,0 +1,7 @@
+custom.smalltalk.agent.age
+
+#me
+customsmalltalkagentage
+
+#bot
+INTENT custom.smalltalk.agent.age

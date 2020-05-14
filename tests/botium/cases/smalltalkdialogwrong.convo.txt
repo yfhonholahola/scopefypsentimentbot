@@ -1,0 +1,7 @@
+smalltalk.dialog.wrong
+
+#me
+smalltalkdialogwrong
+
+#bot
+INTENT smalltalk.dialog.wrong

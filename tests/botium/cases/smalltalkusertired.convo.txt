@@ -1,0 +1,7 @@
+smalltalk.user.tired
+
+#me
+smalltalkusertired
+
+#bot
+INTENT smalltalk.user.tired

@@ -1,0 +1,9 @@
+set_language
+/language
+change Language
+/setLanguage
+change Language english
+change Language zh-HK
+/setLanguage zh-HK
+/setLanguage english
+/setLanguage en

@@ -1,0 +1,7 @@
+smalltalk.user.bored
+
+#me
+smalltalkuserbored
+
+#bot
+INTENT smalltalk.user.bored

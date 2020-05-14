@@ -1,0 +1,7 @@
+smalltalk.user.waits
+
+#me
+smalltalkuserwaits
+
+#bot
+INTENT smalltalk.user.waits

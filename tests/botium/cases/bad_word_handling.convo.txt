@@ -1,0 +1,7 @@
+bad_word_handling
+
+#me
+bad_word_handling
+
+#bot
+INTENT bad_word_handling

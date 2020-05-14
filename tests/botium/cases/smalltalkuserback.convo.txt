@@ -1,0 +1,7 @@
+smalltalk.user.back
+
+#me
+smalltalkuserback
+
+#bot
+INTENT smalltalk.user.back

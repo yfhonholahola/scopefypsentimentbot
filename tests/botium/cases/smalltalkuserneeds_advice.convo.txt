@@ -1,0 +1,7 @@
+smalltalk.user.needs_advice
+
+#me
+smalltalkuserneeds_advice
+
+#bot
+INTENT smalltalk.user.needs_advice

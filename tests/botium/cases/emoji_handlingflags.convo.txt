@@ -1,0 +1,7 @@
+emoji_handling.flags
+
+#me
+emoji_handlingflags
+
+#bot
+INTENT emoji_handling.flags

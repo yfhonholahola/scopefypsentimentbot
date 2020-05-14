@@ -1,0 +1,7 @@
+custom.agent.currenttime
+
+#me
+customagentcurrenttime
+
+#bot
+INTENT custom.agent.currenttime

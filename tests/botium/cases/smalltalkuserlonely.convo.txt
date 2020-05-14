@@ -1,0 +1,7 @@
+smalltalk.user.lonely
+
+#me
+smalltalkuserlonely
+
+#bot
+INTENT smalltalk.user.lonely

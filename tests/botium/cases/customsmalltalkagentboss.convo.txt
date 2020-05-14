@@ -1,0 +1,7 @@
+custom.smalltalk.agent.boss
+
+#me
+customsmalltalkagentboss
+
+#bot
+INTENT custom.smalltalk.agent.boss

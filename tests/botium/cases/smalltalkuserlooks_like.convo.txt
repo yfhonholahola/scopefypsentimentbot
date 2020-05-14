@@ -1,0 +1,7 @@
+smalltalk.user.looks_like
+
+#me
+smalltalkuserlooks_like
+
+#bot
+INTENT smalltalk.user.looks_like

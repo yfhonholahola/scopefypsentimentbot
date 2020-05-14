@@ -1,0 +1,7 @@
+conversation.start
+
+#me
+conversationstart
+
+#bot
+INTENT conversation.start

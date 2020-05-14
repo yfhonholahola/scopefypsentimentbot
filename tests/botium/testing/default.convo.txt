@@ -1,0 +1,7 @@
+Say hello
+
+#me
+MY_INTENT_NAME
+
+#bot
+INTENT Default Welcome Intent

@@ -1,0 +1,7 @@
+emoji_handling.food_n_drink
+
+#me
+emoji_handlingfood_n_drink
+
+#bot
+INTENT emoji_handling.food_n_drink

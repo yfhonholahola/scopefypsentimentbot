@@ -1,0 +1,7 @@
+smalltalk.user.has_birthday
+
+#me
+smalltalkuserhas_birthday
+
+#bot
+INTENT smalltalk.user.has_birthday

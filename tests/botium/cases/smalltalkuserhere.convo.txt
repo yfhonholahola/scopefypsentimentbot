@@ -1,0 +1,7 @@
+smalltalk.user.here
+
+#me
+smalltalkuserhere
+
+#bot
+INTENT smalltalk.user.here

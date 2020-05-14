@@ -1,0 +1,7 @@
+smalltalk.user.going_to_bed
+
+#me
+smalltalkusergoing_to_bed
+
+#bot
+INTENT smalltalk.user.going_to_bed

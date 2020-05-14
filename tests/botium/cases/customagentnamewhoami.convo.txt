@@ -1,0 +1,7 @@
+custom.agent.name.whoami
+
+#me
+customagentnamewhoami
+
+#bot
+INTENT custom.agent.name.whoami

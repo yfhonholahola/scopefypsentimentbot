@@ -1,0 +1,7 @@
+custom.smalltalk.agent.answer_my_question
+
+#me
+customsmalltalkagentanswer_my_question
+
+#bot
+INTENT custom.smalltalk.agent.answer_my_question

@@ -1,0 +1,7 @@
+emoji_handling.symbols
+
+#me
+emoji_handlingsymbols
+
+#bot
+INTENT emoji_handling.symbols

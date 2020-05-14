@@ -1,0 +1,7 @@
+smalltalk.dialog.hug
+
+#me
+smalltalkdialoghug
+
+#bot
+INTENT smalltalk.dialog.hug

@@ -1,0 +1,7 @@
+custom.smalltalk.agent.chatbot
+
+#me
+customsmalltalkagentchatbot
+
+#bot
+INTENT custom.smalltalk.agent.chatbot

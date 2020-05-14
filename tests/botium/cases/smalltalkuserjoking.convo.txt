@@ -1,0 +1,7 @@
+smalltalk.user.joking
+
+#me
+smalltalkuserjoking
+
+#bot
+INTENT smalltalk.user.joking

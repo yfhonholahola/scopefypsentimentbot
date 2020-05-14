@@ -1,0 +1,7 @@
+smalltalk.dialog.hold_on
+
+#me
+smalltalkdialoghold_on
+
+#bot
+INTENT smalltalk.dialog.hold_on

@@ -1,0 +1,7 @@
+smalltalk.user.misses_agent
+
+#me
+smalltalkusermisses_agent
+
+#bot
+INTENT smalltalk.user.misses_agent

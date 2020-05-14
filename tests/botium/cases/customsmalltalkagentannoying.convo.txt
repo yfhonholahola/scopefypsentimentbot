@@ -1,0 +1,7 @@
+custom.smalltalk.agent.annoying
+
+#me
+customsmalltalkagentannoying
+
+#bot
+INTENT custom.smalltalk.agent.annoying

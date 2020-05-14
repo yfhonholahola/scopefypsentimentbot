@@ -1,0 +1,7 @@
+custom.smalltalk.agent.greeting
+
+#me
+customsmalltalkagentgreeting
+
+#bot
+INTENT custom.smalltalk.agent.greeting

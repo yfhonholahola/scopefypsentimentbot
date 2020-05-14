@@ -1,0 +1,7 @@
+custom.smalltalk.agent.boring
+
+#me
+customsmalltalkagentboring
+
+#bot
+INTENT custom.smalltalk.agent.boring

@@ -1,0 +1,7 @@
+smalltalk.user.busy
+
+#me
+smalltalkuserbusy
+
+#bot
+INTENT smalltalk.user.busy

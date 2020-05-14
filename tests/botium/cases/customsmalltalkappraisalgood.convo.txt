@@ -1,0 +1,7 @@
+custom.smalltalk.appraisal.good
+
+#me
+customsmalltalkappraisalgood
+
+#bot
+INTENT custom.smalltalk.appraisal.good

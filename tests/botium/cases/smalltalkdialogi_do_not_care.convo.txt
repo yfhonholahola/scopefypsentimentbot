@@ -1,0 +1,7 @@
+smalltalk.dialog.i_do_not_care
+
+#me
+smalltalkdialogi_do_not_care
+
+#bot
+INTENT smalltalk.dialog.i_do_not_care

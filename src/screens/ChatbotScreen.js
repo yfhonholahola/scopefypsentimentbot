@@ -21,34 +21,6 @@ class ChatbotScreen extends React.Component {
     const sentMessages = [{...messages[0], sent:true, received: false}];
     this.props.sendRequest(GiftedChat.append(this.props.chatbot.messages, sentMessages, Platform.OS !== 'web'));  
   }
-  
-  _handleResponse(result) {
-    console.log('testing: ',result);
-  }    
-
-  _botSend = (text, payload) => {
-    const newMessage = {
-      _id: this.state.messages.length + 1,
-      text,
-      createdAt: new Date(),
-      user: BOT_USER
-    };
-
-    if (payload && payload.is_image) {
-      newMessage.text = text;
-      newMessage.image = payload.url;
-    }    
-
-    if (newMessage) {
-      this.setState(previousState => ({
-        messages: GiftedChat.append(
-          previousState.messages,
-          [newMessage],
-          Platform.OS !== 'web',
-        ),
-      }))
-    }
-  }
 
   _renderCustomActions = props => Platform.OS === 'web' ? null : (
       <CustomActions {...props} onSend={() => {}} />
@@ -73,8 +45,8 @@ class ChatbotScreen extends React.Component {
         <View
           style={styles.container}
           accessible
-          accessibilityLabel='main'
-          testID='main'
+          accessibilityLabel='chatbot'
+          testID='chatbot'
         >
             <GiftedChat
               messages={messages}          

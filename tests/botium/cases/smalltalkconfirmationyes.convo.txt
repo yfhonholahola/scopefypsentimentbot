@@ -1,0 +1,7 @@
+smalltalk.confirmation.yes
+
+#me
+smalltalkconfirmationyes
+
+#bot
+INTENT smalltalk.confirmation.yes

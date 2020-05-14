@@ -1,0 +1,7 @@
+smalltalk.user.enjoyment
+
+#me
+smalltalkuserenjoyment
+
+#bot
+INTENT smalltalk.user.enjoyment

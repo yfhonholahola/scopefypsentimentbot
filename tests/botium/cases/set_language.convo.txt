@@ -1,0 +1,7 @@
+set_language
+
+#me
+set_language
+
+#bot
+INTENT set_language

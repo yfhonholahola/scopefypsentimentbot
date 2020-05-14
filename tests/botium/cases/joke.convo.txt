@@ -1,0 +1,7 @@
+joke
+
+#me
+joke
+
+#bot
+INTENT joke

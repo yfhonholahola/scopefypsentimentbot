@@ -1,0 +1,7 @@
+smalltalk.user.testing_agent
+
+#me
+smalltalkusertesting_agent
+
+#bot
+INTENT smalltalk.user.testing_agent

@@ -1,0 +1,7 @@
+smalltalk.emotions.wow
+
+#me
+smalltalkemotionswow
+
+#bot
+INTENT smalltalk.emotions.wow

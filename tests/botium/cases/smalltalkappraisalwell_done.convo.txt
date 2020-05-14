@@ -1,0 +1,7 @@
+smalltalk.appraisal.well_done
+
+#me
+smalltalkappraisalwell_done
+
+#bot
+INTENT smalltalk.appraisal.well_done

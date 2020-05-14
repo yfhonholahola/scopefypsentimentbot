@@ -1,0 +1,7 @@
+custom.smalltalk.agent.hungry
+
+#me
+customsmalltalkagenthungry
+
+#bot
+INTENT custom.smalltalk.agent.hungry

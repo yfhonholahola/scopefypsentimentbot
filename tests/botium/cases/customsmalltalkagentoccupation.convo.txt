@@ -1,0 +1,7 @@
+custom.smalltalk.agent.occupation
+
+#me
+customsmalltalkagentoccupation
+
+#bot
+INTENT custom.smalltalk.agent.occupation

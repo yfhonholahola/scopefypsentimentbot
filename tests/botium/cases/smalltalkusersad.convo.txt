@@ -1,0 +1,7 @@
+smalltalk.user.sad
+
+#me
+smalltalkusersad
+
+#bot
+INTENT smalltalk.user.sad

@@ -1,0 +1,7 @@
+smalltalk.emotions.ha_ha
+
+#me
+smalltalkemotionsha_ha
+
+#bot
+INTENT smalltalk.emotions.ha_ha

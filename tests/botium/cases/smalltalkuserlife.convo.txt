@@ -1,0 +1,7 @@
+smalltalk.user.life
+
+#me
+smalltalkuserlife
+
+#bot
+INTENT smalltalk.user.life

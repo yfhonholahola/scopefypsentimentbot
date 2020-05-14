@@ -1,0 +1,7 @@
+custom.smalltalk.agent.bad
+
+#me
+customsmalltalkagentbad
+
+#bot
+INTENT custom.smalltalk.agent.bad

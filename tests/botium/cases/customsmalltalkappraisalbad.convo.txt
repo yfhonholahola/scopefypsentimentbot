@@ -1,0 +1,7 @@
+custom.smalltalk.appraisal.bad
+
+#me
+customsmalltalkappraisalbad
+
+#bot
+INTENT custom.smalltalk.appraisal.bad

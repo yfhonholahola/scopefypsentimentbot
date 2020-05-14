@@ -18,9 +18,9 @@ const setDialogflow = (language) => {
             dialogflowConfig.private_key,
             dialogflowLang,
             dialogflowConfig.project_id
-        );
+        )
         res();
-    })  
+    })
 }
 
 function isFunction(functionToCheck) {
@@ -43,4 +43,20 @@ const sendRequest = (message) => {
     })
 }
 
-export { setDialogflow, sendRequest }
+const sendEvent = (payload) => {
+    const { event, parameter } = payload
+    console.log('sendEvent ', event);
+
+    return new Promise((res, rej) => {
+        Dialogflow_V2.requestEvent(
+            event,
+            parameter,
+            // result=>{console.log(result);},
+            // error=>{console.log(error);}            
+            result => { res({result}) },
+            error => { rej({error}) }
+        )        
+    })    
+}
+
+export { setDialogflow, sendRequest, sendEvent }

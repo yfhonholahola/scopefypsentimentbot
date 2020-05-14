@@ -1,0 +1,7 @@
+custom.smalltalk.agent.residence
+
+#me
+customsmalltalkagentresidence
+
+#bot
+INTENT custom.smalltalk.agent.residence

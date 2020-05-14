@@ -1,0 +1,7 @@
+emoji_handling.travel_n_places
+
+#me
+emoji_handlingtravel_n_places
+
+#bot
+INTENT emoji_handling.travel_n_places

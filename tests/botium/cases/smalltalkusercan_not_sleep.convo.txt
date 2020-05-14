@@ -1,0 +1,7 @@
+smalltalk.user.can_not_sleep
+
+#me
+smalltalkusercan_not_sleep
+
+#bot
+INTENT smalltalk.user.can_not_sleep
